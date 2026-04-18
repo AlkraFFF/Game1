@@ -1,0 +1,1645 @@
+nternalID: 8599801672665724852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Run_with_shadow_21
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 144
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f5187e371c81140800000000000000
+      internalID: 4690711715455786816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Run_with_shadow_22
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 80
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27710aafc40ce3f40800000000000000
+      internalID: 5710212814407210866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Run_with_shadow_23
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 90
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e452effe11186a500800000000000000
+      internalID: 407154730364446030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Run_with_shadow_24
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 80
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1be4c9d1682bed00800000000000000
+      internalID: 1002939742750567196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Run_with_shadow_25
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 91
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ee7c62d66afcb60800000000000000
+      internalID: 7768610869969677939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Run_with_shadow_26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 80
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555aa574b869318f0800000000000000
+      internalID: -570947202804177579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Run_with_shadow_27
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 90
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bbf08220bad8850800000000000000
+      internalID: 6380944272804264720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Run_with_shadow_28
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 80
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a82905b864af65f0800000000000000
+      internalID: -761209042381494110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Run_with_shadow_29
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 80
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2168b7f0f13ac90800000000000000
+      internalID: -7159844831231601985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Run_with_shadow_30
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 80
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e4e9e2c3d9bf020800000000000000
+      internalID: 2376666110173793940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Run_with_shadow_31
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 80
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb238b05ae2678790800000000000000
+      internalID: -7527939493610376514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Run_with_shadow_32
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 80
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad5abc0d84d80730800000000000000
+      internalID: 3965653174168739239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Run_with_shadow_33
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 16
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573ec69f238ed19e0800000000000000
+      internalID: -1648906582917061771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Run_with_shadow_34
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 26
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2ec949637a7a3e0800000000000000
+      internalID: -2042480053125848343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Run_with_shadow_35
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 16
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d743bbab004e0f560800000000000000
+      internalID: 7345621684025242749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Run_with_shadow_36
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 16
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1225866d53c06bd70800000000000000
+      internalID: 9058441125872292385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Run_with_shadow_37
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 27
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c243b96c820c902f0800000000000000
+      internalID: -1006061760377310164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Run_with_shadow_38
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 26
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072a5b1945c5623f0800000000000000
+      internalID: -925951155086450064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Run_with_shadow_39
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 16
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd69661c460573540800000000000000
+      internalID: 4987543506007791323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Run_with_shadow_40
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 16
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c38c542a71f9ca30800000000000000
+      internalID: 4236182431417009091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Run_with_shadow_41
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 16
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3eda385797d4d60800000000000000
+      internalID: 7876084868968211431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Run_with_shadow_42
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 16
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ec4faf85ef40510800000000000000
+      internalID: 1514615032824253973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Run_with_shadow_43
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 16
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b3e91d495881dd0800000000000000
+      internalID: -2515113517667959955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Vampires1_Run_with_shadow_0: -3883214357736090018
+      Vampires1_Run_with_shadow_1: -9041513180479025230
+      Vampires1_Run_with_shadow_10: 1222498154043292663
+      Vampires1_Run_with_shadow_11: 1801176130864923531
+      Vampires1_Run_with_shadow_12: -422273211888837793
+      Vampires1_Run_with_shadow_13: -8894910171676609088
+      Vampires1_Run_with_shadow_14: -5582814497299324826
+      Vampires1_Run_with_shadow_15: 5085131621955803914
+      Vampires1_Run_with_shadow_16: -8652079099472171715
+      Vampires1_Run_with_shadow_17: 1472360523102011707
+      Vampires1_Run_with_shadow_18: -7923108117553042770
+      Vampires1_Run_with_shadow_19: 881372264309471968
+      Vampires1_Run_with_shadow_2: -260260797234552952
+      Vampires1_Run_with_shadow_20: 8599801672665724852
+      Vampires1_Run_with_shadow_21: 4690711715455786816
+      Vampires1_Run_with_shadow_22: 5710212814407210866
+      Vampires1_Run_with_shadow_23: 407154730364446030
+      Vampires1_Run_with_shadow_24: 1002939742750567196
+      Vampires1_Run_with_shadow_25: 7768610869969677939
+      Vampires1_Run_with_shadow_26: -570947202804177579
+      Vampires1_Run_with_shadow_27: 6380944272804264720
+      Vampires1_Run_with_shadow_28: -761209042381494110
+      Vampires1_Run_with_shadow_29: -7159844831231601985
+      Vampires1_Run_with_shadow_3: -6975111171047506767
+      Vampires1_Run_with_shadow_30: 2376666110173793940
+      Vampires1_Run_with_shadow_31: -7527939493610376514
+      Vampires1_Run_with_shadow_32: 3965653174168739239
+      Vampires1_Run_with_shadow_33: -1648906582917061771
+      Vampires1_Run_with_shadow_34: -2042480053125848343
+      Vampires1_Run_with_shadow_35: 7345621684025242749
+      Vampires1_Run_with_shadow_36: 9058441125872292385
+      Vampires1_Run_with_shadow_37: -1006061760377310164
+      Vampires1_Run_with_shadow_38: -925951155086450064
+      Vampires1_Run_with_shadow_39: 4987543506007791323
+      Vampires1_Run_with_shadow_4: -7831627931878129024
+      Vampires1_Run_with_shadow_40: 4236182431417009091
+      Vampires1_Run_with_shadow_41: 7876084868968211431
+      Vampires1_Run_with_shadow_42: 1514615032824253973
+      Vampires1_Run_with_shadow_43: -2515113517667959955
+      Vampires1_Run_with_shadow_5: -3004800732313720626
+      Vampires1_Run_with_shadow_6: -8717368415359069098
+      Vampires1_Run_with_shadow_7: 6462177737714573765
+      Vampires1_Run_with_shadow_8: -6273647970284857196
+      Vampires1_Run_with_shadow_9: -3449315122654222994
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ‰PNG
+
+   IHDR  €      ºw¡g   tEXtSoftware Adobe ImageReadyqÉe<  viTXtXML:com.adobe.xmp     <?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 7.2-c000 79.dee3a7703, 2022/08/18-16:50:30        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:359e7a2d-970e-e04c-8df0-bd3bd4bf95ff" xmpMM:DocumentID="xmp.did:196A2D7AA3C411EFAC34B8C37D7D4772" xmpMM:InstanceID="xmp.iid:196A2D79A3C411EFAC34B8C37D7D4772" xmp:CreatorTool="Adobe Photoshop 23.5 (Windows)"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:df686720-d48f-1941-aa32-2bebac55e2bc" stRef:documentID="xmp.did:359e7a2d-970e-e04c-8df0-bd3bd4bf95ff"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>Ü`^½  %üIDATxÚìl]Õ™ï—O’àúŒíÄ®c'áa£)myP¢!A©JEoŒ€Ö·W£Û2¥(ˆ	µÕT£†¥Ln™Š:½´*5%ÑF¢jÔ)-y É6`ÇÆvl7Äë<’sÏÅßî:Û{Ÿà³·ÏZûÿ“öÙ{ŸmåûÖÿÿ}k?ÎII:V„B’GŠ) „6 B!l „BØ !„°Ba „Â@!„€B !„6 B!l „BØ !„°Ba „Â@!„€BHÁ)e
+
+OIIIè¾ÕÍKCÿİİ]¡ò?î!ô =PğqbRã?„__U®V4/T­—/Rí¿íPmŸlUoQûº©ş‘ñPØ0N¹L?Só³Ğô@áóPwf¼ÍæGÜ7~l‰'z,_L€0ó­9Èe~ìw!vz€°Å¥, …gİºuÚ¥;vì(1ã9¡Ô9‹Ğ³–ØÏ™y¿…ºb»ğ“n~z€(6¤âA"X	ûsÍlâÉŸ=h
+W5TÍW}#'ÕÖ×zôi®6B,±íØÏ™&Âß±Ñüfì¦ù;ò4Øßr¡ Ğô@±x ÅPx0ëùÒm÷«Gşv– òú÷U?yö§jo÷°Ş†%Ö±ûÍ¸q<şÌ¢h~ z€°â é ‚İ¸é;êşM_õDwtv©‹ªË´à7–XÇvìSà8o£ği~z€°Ã)€h¨âk¨¯Q®_¥èö€%Ö±ûñ9ó8[I²ùézÀ¤X ¢À[_Tš›ôú/~ùkDÁ,±íØğygsìI7?=@Øà@ôx®{şeõdú´g Ä.ÂÇvì—¸]>ÍOĞÅí@|"˜óƒ{Ôk½gÔ½='½X±Ä:¶c¿Kq'İüô =PìH± Ä;„À—<ó€ú_ÿó¨-Ïl×K¬c»+3>šŸ ìğ@Á
+"ì[¸¡…kšgîŞ¬×_úÜ5êî_P?xäWZô Á?øğc¡ÁÛò-È\9øÌ7¨Aµ÷Õ}Şö•W­P‹×åxÛ¿/±·¶,Õlûı}ÙôõkóO'~›ó@ĞÅæXÀLƒ·Yüs¯Y®=<¬.½l‰Bî¹÷~õâo¶¨>}‹ÚüıuÜoìÉäáçÄØ±¼vŞ5ùÿpêÜ£‘§_Şí\’îĞP¿,=†šjÇŸ°¸äÛım/‚A9â¿jÃ-êhJ½ß?å˜³¥õêĞ»œ¿ˆ¾lÅÅz½ìùœpá’5jÏ¶-jâs­jbßŸM`s0‹ß™»2	Z~ÅšPT×/Ñòí€şQõìÊÙ ¡‡bi 2ğ•U]]yhğ.A»>„?Ü÷¦jYù	uç7¿ªê›TwŸzôÇTçŞß©²ò:5ğn§âGÜW~½I:­×Ïl~]-şp‹º°¢*Ôü ã?çê÷5ËçªıÎÊ…­À_üÂ<088®ÆF9å3~h`b|0Ô5—kÈ$Àæ±ò Æ„yàøØˆ®qy òàx€&àÂ‡(0Ck¶‰ß_ü1¸ÈD™ á#f4¿í@„orä®Wòj€hÈÁ¢^íkÀÖY Œ;bó€-Z>ÈgæSşømö€è_jÀtĞÔ”ˆô) ñÇÌ/t:œîëÇ?×K™ıˆ,¾©Ş;}²üÛÃòez]ñã=¿ñó7é%Ö±İ…ØåßÁÊË?¶ˆ‚ác]Ÿòfòƒ\os>0fü2Ûó{@ü<À3ğÍòrË¦lõA˜¤äò€©‘8<PõÀŸÙ<ì¾ñ•ËTùŞw¼Æà£ãa3"\“f€S•9~@­N‡İ)v:¿Ù ty06ºKï½ûõ,áĞæÌ¾¦+Í4VGîN#.Ä‡”•O37:‡;§Üš4@‰mÅOë`Òô8õ‡Öÿ_€ <¢2ñra¹Lˆry@t€õÍ¯[çƒ àŞ¿„yÀ«wíR§î…Ú©¨’€ÓŸe[©¶/|V&×´ÌÁÇv,?táqıÃYxÉµ1t½çúşm³ ‰1à¦_ÛÍ-ìÌéı÷>r™º½¶A/±n^"6Æ=]‘2ã3ÇßÛ/äí|ÿ~1j –´-:‡æÃr ¯è<d¼Ù¨¿Läò€_¶Å¤QÈåÓ#ÄcEs	Èt$`dç¸ı¾ğŞÑ	½”kx™Ç&ÌkvxâC
+šÄŞ18¡¶÷öê%ÖQşí{÷y§€¶ÆâB|ÈC.óëıƒNÄ,Àkhr&+A9€Gà³Ú¬Ó¢h=ÈÈ_®øÀ¬aûÍ¿dí8·)ÇÚ°½<  *Õ¨šÆÆô/<kv9yoÛé¿—ƒsôé\[İœ¾óês…±­mjÛŞ{¸9PUsô³á_¹y…¾Ö7™3Äa#.yöİ?şX¿ïÀ9ó›ù²5Ş Ë XÿCf;¾ñšz©ŠŠÀœW;ÎŸ•Û<`úÀ¯ñ@k]‹ÎÁ£¯tNÑ€í>x¦Û2Ëö ˆõŸœ:™]úß‰üßËc -­×}QÏ †·KÄ@cğ±í’ÊJµíä¹' Ê+‘$ÕÙñÒSş¿cë#pşøMñKü™b°3Ó „âßæçßÿ¢º’v¼ÿò¼ùSâ÷k"lümÍƒŒ?íÕyØ0¿\½=:š›ã÷ç@â¬9£z3“>3şõªµ®,gü¶zÀÿ°(ñ£	MCE­ÈÈ¾{^*3Ë9¨€	Š?¾#vœÍäÇC}úK “³çâG\§të±‡ùM°º€>¤@º<şĞºLx‚ràjüĞ 4­Ê76Åm‡Õ@xÛàä)®øSqoÁáe
+@f|ş$.ˆÀÿï—Á÷@i€¸6(ĞÕøƒÌm¢—Ç_­‹öı9p¥	úÿıˆj€ğ„Ù ]ÿ hj îøKãN
+…ƒºßíTòU¹ìã2Ò ñ˜×¶LìÍfÌì“gÀ]_nôšñCğØ.ÏA»NÖÍÄyp6½şˆ†€4¶\‰Ÿ‚hwµ&ˆÎı5PâŸÌQlñÇÚ ğ*AE?Wü¦ø“’‹0ó›Û“¨ÄÓã½ÿ‘P×›Ÿ9	‚L-¸f|ÛsÅ7‘ßÉiŒ7Bı9(Tü.Ü ›éøÛ˜‡$Æoæ iş²şE‘‡Èo‡ÕqÅãgüŒŸñkü±şt>İ0Wà¶ÿúLâ·ı?Ã(ÄøÛ‡¤Ä?“³AÛıeı‹"%¶ŠBHaI1„Â@!„€B !„6 B!l „BØ !„°Ba „Â@!„€B !„6 B!l „BØ !„°Ba „Â@!„€B !„6 B!l „BØ !„°B !„6 B!l „BØ !„°Ba „Â@!„€B !„b¥”)(<%%%¡ûV7/M‡íÛİİz`:fb	=@Ø lÂ¿÷ÖUªı·ªí“­S–ßZ¥sÀfÓÏÔü,ô =Px¤¢H@®×š¥ËÒa¯éuEø+šfíÃ:¶c.q¸bşúªr´t%vz€°Å)€Â³nİº4^fÜ7~l‰·¿õòEYŸ7×ñ93ş¿Eó³ Ğô€u iàÉŸ=¨ü¢íxóHÎcüûq<şÍ¿Î	MĞô@±y ÅPxvìØQò¥ÛîW<ümôo÷‹<È8ÇãïàïÑü, ô =`Í@Ò »qÓwÔı›¾ª×‡FNäuœ|Çáx…OóÓô€H± DKGgWN£‡„°ãh~ z€(ú3€¤ ÉÁ[_œÛt±gsìI7?=@ØàR€èà¿©‘×V-Èi
+„?C:Éæ§èbö@)@ôL~¹#½²¹F5TÍW}#'³bÆ:¶ƒ½İÃÊæ/ÂĞüô =`R1 Tä® Ó v.\~Pìb~s×ÍOĞÅìÒ¸‚Oj÷7yuq­zõTæÍ‚LçXv4n¿’f~z ;¤Ã< 2Qİ]ô@L”ú·U¦û(ÿø©©Ÿ¹c^zÚàmù˜ Ì½fuºlÅÅŞúÙ¾S*Õ0/ë3ûş¤N¿¼»ÄÖØÃÆ±Ÿïßr1I÷ÀL}@>±6 I /Kz® m˜èeY±ô5ÖõgçÄo·‰ßôaE H¶7€¤z > 
+Ÿ‡X.ù“5à“ë²oBûl.Ø„ˆ±8ÖGúNyŸñã³Èíñ#î+¿Ş¤†ÎŠÛ{aÌg ì«XZ¯j–ÏUûRi´d$Õ6x ×À/¾©>+`yïß†Ïáóä”©˜E”Á¯Z[®ßcyvRüØoæÂ…â/qIl~áKN°.3AÉ•ìÃß±]Iö@R}`‹"½„4Äl2²sÜøé¶<×Ÿ5²éôWb—AŞúù{:NlÇÌ q_ú·e}ÛmŒ]âöo#HìˆM¶ıÖEÏÌ¶ùA>l»d˜ñÂô@á=Ù% sàåÈ/ps¶›ûµ`2ÇX|xîôí°' >Ûj2ërdn—ÏX:ë	+œÂJ\ˆñ£gªÕë™eÖúd.$µ‡‡U_ÿ;%—QJlÊGÒ=4y ¡~Y:ãu¾óB{ ’3 9ı1Rºü‰¡ñ¬hvºµåŞ¬À<ïm™ı>¾Æ‹ÿÚyÔgn¼AİÿÜêøÿ%#ï«·«JÏúœ£Şv½¶/|VıŸ—ÿ˜·M³Ÿ `€ŠÊ…:fÄ¸øÃ-z;bGôL÷İN5ÔT£÷ã³c£Ç¦4 ÛfIö€?ğÁÊ«Vhm‹ŞEÿA>ØtÏW´gl‹=È¢hZ4Ë¨aú/´"» ƒşÂ7ÿA¿á#8¼DÜXÊ6ìÇçäXzĞi˜Å»µe©GÄ¯,Íí‹×éÏÚw—^¶D}úSí÷‰ñA½]„ul—|ùïnÖÇØh@Æó|= ïØ®ÓĞ6ÆXr€q‡°4}€±Ï¸àÄMË™ít€WâÒÁ/e­[—n¨¯Ñù‡ÉÁÅİn*BˆW;ªÔPæ=>/ß‚”¿eÛé¿ü»å§ °¼¶º9}Ie¥Ú–‰UbÖ¢ÈÄ}{mƒÚŞÛ›õõWnŠù%f1@YygÉ…˜ÿ…­öÆê¿€ñÄ/{¯à›=äƒæSgÕí'.POŒg;h;U®ŞÎì7=ãŠ ihû­ƒ=Óz@¼ËKÔß€ğ¦Ûğ¾zèp».€'Ç§'ğhm“şlgÇKOÙxú”ƒ–Öë¾hÆßXQáÅŠmëUk]™zô•ÎĞøm¾„øÕ•´Ÿ>Ğ­ëC}S>³a~¹——¹iıó ã/È•ƒ·GGµ0şğ?6zÀÿW·¨Á‰)èËŠß…±Ò?âÌUséßšK@‚AÇL ¼²±MÏ2£ †™Æfüq ~¿ùı±»¿©ƒï}ä²¬ñÇÀïÕVëY’«ã/ãÍ›90½!Ç¹ğ[@aãè×<<áß¥ñ‡¦¡mh\êŸ9şğ„Y3ãŠ?çàwÏK¾Çàßwà sE0(~ÜüÁéŸ?bOBüAcÙ^˜ùí™Wê|ü2Şæ$ Ì.Çoj 1Ãğ†ëñCãr–#gûAšˆ+şÒ8‚nçß&EQ¿·S•+·Áş ø[®T{¶mq:~‰õÂŠ*uè]Y±Âã£½ía:q-¦Ş]7(şUnQ½û³üëßæı ×ÀMê;m~ÉÉò+Ö¨ãc#±×ÀÒbH¿(º,‚°ø“ÄŸ‰3´È'¥&Eïa`¢“Äq‹Û3¢Y™üD~x&§16Şõç PñÛ|¬Pãoc’¿™ƒ¤ù?ÊúE"¿	DTÇŒŸñ3~Æ_¬ñÇúsĞùtÃ\Ûş[è3‰ßöŸA.ÄøÛ‡¤Ä?“³AÛıeı‹"Ö|µœBHaI1„Â@!„€B !„6 B!l „BØ !„°Ba „Â@!„€B !„6 B!l „BØ !„°Ba „Â@!„€B !„6 B!l „BØ !„°B !„6 B!l „BØ !„°Ba „Â@!„€B !„b¥”)ˆ†’’’¬õÕÍKÓ¹>¿»»«$h{:f2IbõO°XÄï­«¼õ7ê<—	’\ X¨ê?”Ú’ [Í/â‡è÷u›²¿¡j¾ª­Z nüØçLÀÀHı·şK¢•i€|°õµ§N?â†°‡FN¨¾‘“Zì ‚­—/Rí¿íğŒğ_êBı~Ç%¶7>ÿ|€k(´şmŒ¿ú·ÕQè?Š\DŞ 
+• ÛD°fé2Oü{»‡§ì_Ù\ã™FøÑîAõÈÃßV7}Ç™P¨`sHj,”şmn …Ö¿u 	°±@äÿ³;~¥Ş;:¡·÷õ«Î.õôWõUå^Ü"şİ‡³Š€­  é3`[@!ôo«¢Ğ¹ˆì€)~I@ÿÈxV†vw©Í§$Àüâ×F¯?7ğ·~ím‚cUyq__•V[•;ÈØç* à÷ÆØ£ ¸ õOıÛ ÿR€hXĞÜ¤üÙƒ:î‹ªËô6¼Gü&ˆ[¶!_.Á@ıSÿÅ­ÿÔl$ µe©N fDæéà"ş/İv¿~ıâ—¿ÎÚÿ“gªÅÿàÃéØq™ÀP dì‘), Ô?õ_<ú/2IŸ ÿÉôiõZï5gÓ] $^™Jì(.=g }ÙãªêúõkBÀ¾n·
+ õOı»şKY ¢±ßÛsR½–y?ç÷d‰ n°pä=µ×1ñ³ PÿÔñë¿” :¶<³]mxæo]â–˜®ùbŞç¢øY ¨ê¿¸õ_Ê/l}Q¿Ì™ŸˆÛß:Ø£†šjÏ}¸»Ë¹Ó ê?_ıÏ]\«o€œ~y7`ŒDö=€õë×§?sãjÃõ«B ÈS®ı_·n]×x?rÕzõâo¶dÅ½pÉu´¿Gzc—šø\«šØ÷§@ñÛú= Œ¿¼Ï] j¦VlÊE¡õo[üç«!È6z`&úÓ‘6€é ìÙ¶ÅKB®îoc 0ß·~üsõÏw}C÷½©ÆFypEü3) ’‡ =ØÖ ò) ã+—©TÃ¼Ğ˜mn Óé¿º~‰ö?Æ¿béj¬ëÏ>°õ›ÀÓé_b?ÛwJk`6<é7ó) ¦r™ÀÖ ¬İğ7éÇó´êïîóÄ:÷şNMüİ§ÄŸOxôs—?0öR
+¨Y>Wíè°µ¹˜NÿgKëõ{4@3~W<¯şEsîù¨~ä›(ßh68=é= |¥yã&•ùg»QŠ?fÀ`Õ†[Ôç·¨ŠŒ €	µ:íÒµ@â—Â'Í¯eå'ÔÍ‰İ5äkífØøù›tÜ„T­-×¢®üzSÆ ÊZ-L§?0~ÅÒzg=`êÑÀò+Ö¨C›w©E?¼:«	¸ª³êØŸßå5¸=Š#xátÏ?.É2L°ø¦z5÷šÕN}+¦ë}Zü+šŸ7}ù†2'c÷ Œ»4AÿŒ`Ö#/`s>Dÿï—VkıÃ  Úå{ßÑæwÙ~ı—•×éÙooçş¬Ï¹ì³"vÑÁlz –ÿ¦¡~™şÇ›€ø¸E¼Û©—2À© NBF Í‚dĞ/½l‰.‚5)‚2Ğèø) ÈÎøäú?x®_^r4æ“°V'ÇN¨Û®_¯c7›Ÿ€™ßÈÎq½ô
+cıÃëğ}P.\õ¿¢æ‰¤öUej_ÜˆåÿFÁˆéM ğW-ÛzL'E"pe€4Ÿ:«—¸.ŒA—F(bw)î àqc¼%aŸ±5n\–‚‡`6?=û«\¨Îl~=kìšúúß)ş7Ì/W©÷ûÕî?>¥¾ró
+/¸"×»]õAPı3›ßlx ‡øñ„ÀÛk¼$LŒzŸûÆİŸõ~(ÉHşb†a/Š?
+Ìa²+qû€4y1=
+Ÿ~º±GÃ—â1Gì˜šú'†ÆõY€¿ºDcE…^Êï#!Ğb75àZìÒ ¥ş}èÂãÚ¨hˆØ?ˆåĞŞW÷ék¡×V7§[ëÊÔíªA=19ëå•m>üX;Ş›¿…-	±ıô_r ¾<o¾÷ w{tS,o½î‹ò¹Î—BÜ.`€&Ñÿï;vy÷Z|ñ»×ü†³fı(¦ş‘x <s2xH·û¡+ Û{{ÕzÕèıìµ§ÿÕ¦2Ksü]ôÔ¿“ëòd˜x nıÇò_B"¸ê¡Ãíw^İâmëœP½ccêíÑQu´¶©Í¼?6?*ƒ+90c×§9â·ı1P_TW¢ıÚ‘3ç5ş¶åÂŒg¸ù‹Ëˆ×¯×ã7õåùÆoóc ~ı›5`gÕ½íÈ`:¯ñ"‘_ÂàñÑŞv³ğã…™ ÿ’ÊJO&fÒl&,‰ı|³=şÓºõYä Èü®Åƒc¦‹ËóG_éüÀº±}ü%~Ì„%Iô¿x!¨øÇ*àqısÎŠ{]Å_Äà²	üÿşîy)ußƒ:à¿/nHTüA9p=~L~ğZßØ˜5ã…r@Wõ¿íäxV„°=©ú7'Ç³äg ¸¶‰»ß¸ùõÄPŸg ¼ †\p	4!nş!nÄŒÀa3à$ä )±#ŞgOÏ:ãÁ~[û)ujù9«cøı7Â“Vf›Xn£	dŠ]»ßì|(‚ØŸ˜A&%æ\9H¦öÇ2†/ÉGô4ör<‰úGÜ³İø#¿	<“Ó›o*~ÛojümÓ ã/\ü6ß.äøG‘‹ÈÏA>ècM®<Èø?ãgüÅ,
+ùtÃ¸Šk0Óø]x´ãoë˜ñÏ<~Û-ÔøG‘‹[!„™‘b
+!„€B !„6 B!l „BØ !„°Ba „Â@!„€B !„6 B!l „BØ !„°Ba „Â@!„€B !„6 B!l „BØ !„°Ba „6 B!l „BØ !„°Ba „Â@!„€B !„6 B!ÅJ)S%%%ÛW7/Mç:nwwWÖétšÉ$NhŸúgH4ÿ[2e{ëå‹¼÷ßZ¥ı&pÁø, Äeıç£ıbÓI|ºD$¥ øó`Šhä„ê99å˜Íµ¾ÿô/6ÅŸÏØO_ ödiÀ¥ø“¢ÿ <¸®ÿ|Ç¾˜ô{p½ „åaİºu:ˆ¿RÇ=á·}²Uu¼yÄ3À¾†ªùª¶jÚúZÎƒ+09ú÷ç!	ú?Ÿ±/ıÇz	(Wöuópï­«¬¾Æ#[mÜôõµO.ÕÂiw—Ş¾·{8ësı#ãjesšÌFßú<HÉ]  ¼—Ø]Ò õOı›şKY âáD÷a-~1Á_©s b¿õkw¨Ö–¥ª¡¾Fö¢ê2õ7ë¾ MÀÀ@ıSÿNœ$¹ €ë«ÒY&812<Eüà½£êÙ¿Ò&p êŸú/>ı§f#?Ú=èCüHÀ?ıû¿ªŸ<ûSıÂàc»ÌŠ\Á»ÎÙ?¬ó`‚m2øx‰	479¿Y şK](~³ ø£+€ú§ş‹Eÿ)€ø€á‘ƒ~Lf7ùÅ/­¾tÛıú%&`` ş©'@’ ®åÂğ’ƒÎ./f€pıú5êŞ“êÉôim×` ş©ÿâÒŠ ^`V·pä=õÂÖuÌ ÌùÁ=êµŞ3ÚÈK±³ PÿÔqé?Å0;BÀ5a¹0M°ä™ôkË3ÛY X ¨ê?2JãN@f‘®¯*×	xa«RŸ¹ñ†¬ô!woV÷ª3N “W×êeíÁõ‚zQç &Àµ`äá÷Ûw©½¯îs¶ èoÂfŠ€\Ş0c××Â3æ.€$ëî5«õ£°¯N®Sÿ³¯ÿYı)$@€ÈLHØöû=Ú(Û·owæwq`‚²«²ç;Ôò+Ö¨êú%êXÏ®¬<Üğé[ÔW·ë†;vìpâ›Àb~“ÚÃÃêÒË–LÑ€¿ Ø4şçóS.ëßŸÑ½à¢şÏGûÅ¢ÿØ€$Á¯ÚpË”Á·½ äk ¢r¡ªi¸\ıã¿«şåïÿvÊñ?–67 oÓü®€|µ\œí;¥Ê÷¾ã\Êƒ©ûŠ¥¨±®?ëñ‡ÿö÷8£ÿ|µ±O5Ìór0›ú­˜É0ßµ¯	ÊşojYù	½.&¨onPw|úVµsÛ³Öş˜?æ+¿Ş¤†Öë0¾ Å w~ó«Î6À B ñ£‚ÔûıÎé_òà×=8³ùuoì]Ò¾Ú7‹ÿl7ÀXîˆ  |>Ü÷¦Ş_½d>Õ¸.*7G$.!9h™4 ò }à1]]A j–Ïõ¶ì×P{ÿòÙŸ¿I=òŸÏ… Ûó Ú7ÉÂèñCGîzÅk| sïïôY°KúŸNûrö«k_füÏw}Cıã>+úOÅ‘ŒÅ7Õ{¢w|lDóÖa‚oe’ğÖÁ-|—Ä/9X¾¡,KfÄ{˜ ë}NÄ‹åş‡{/Ó¢i~ĞbïïîsªÙi_fÿ @ Ğ=ôÿ~iµ3úÓ=èíÜ¯ölÛ¢ÊÊëœÒ¾Ú—qGd8ú/C §B˜ù¢óAøïvªÅnÑï/¬¨ò ê—¥ûúßqjöˆj}Å¯®®_€Coìr¢è~y÷”±ÛÿşM=<×¯s ñâŒPŒàBÒ¾Ì «Ö–«3ÆÙ\En»~½ö„«º—Y1hl¹R¿0î¨	Ğ‚íúÏGûR¥øËxÏVLE™8Ì,ÛzLıÇãßÕûPüı`ğ¥àÆ˜k—BˆC‚Æ |+17Ÿ:k}ìAíxAaŸ‘ñweÌEûæì 7ÿMİÃüx¡	ÀòË¡®éïÇW.óbşÊÍ+Ôî?>¥ïl˜_®õoóÄ/í›?¬ş9Ñ ä4È,zxÄíwÖÛ?1>è{mƒW W^µÂ	øó ë9Œ&€|˜_r-ö\&A!”b “WÎüü…³ÿCãYŸş1D i˜¸ ¿îñ9ÀËl_¾íÜXQ¡\ñ#v4<øšÿĞ…Ç³ê_ÜúäPĞ©®inÜtîT¨¼²±m|´·—?ğBğ­uej{¯wã+íÚÀcÙÒzİe[õĞaÕirÃïËóæ«G3KW¿ ã?3şŞ= ˜“4ÿŒœ» ×3Û—ÌoS•™¸{Û±İÔÿÆY±9!pélPÿˆjS™%ô/Ú_;r&ãı^ç€©ùò0ë_ÜÄò¨¸Q Û/©¬ÔÁ¾Ò©Ö6µuv¼ô”l³ı1Ğ°ø±4s ±c»­ñ=9İøï¬š£·L·Éş$Å/cõm'Çu#4oÛş_Bæ¿¾4b±şÃ¾ÿ¢º’vi~~ïÇäOåü·GGuçïœĞ/cvØÁ®u}?’ƒó=Î…ø!v‰g?§t'*~)ş(†¸€FèrüaÍ/Iã1ök~6âOÍ¦øeĞÑzÇÆt˜³âãŞ—DlÁtÿşÿ¾¸A/û}ªîy)§LÏ¿?,v—ã7 ´/Í¹XßØ¨'@x¹?ÆZ´où$Iÿã“—g[ÿ©ÙHŒ ƒñ‹êÓ7Ãp7÷	”Ã fÜF.ÜDãa$ä i±#ÆSË¯Pck?¥õ.§ıâgOwîQĞ p\âOªş‹Áû³Ò PÜåQP	ZŒ€í®3+âvå1Èó%I±‹öƒâEAÀMa×=€Øä€$jÀÌÃlÇùMà™œÆÈ›o'-ş| `üîë?×®ÆŸï Åäg æİì8+6?ãgüŒ¿Xãõç óé†A»ğk I‰?×Ï!3şäèÿƒÎ†mºÿ¢ã·ö§–	!„ÌŒS@!l „BØ !„°Ba „Â@!„€B !„6 B!l „BØ !„°Ba „Â@!„€B !„‚óÿ w#ißæºÎ•    IEND®B`‚                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    fileFormatVersion: 2
+guid: 93774ecbd9162b04d917792f902a47e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 221765709071657554
+    second: Vampires1_Walk_with_shadow_0
+  - first:
+      213: 6763049587183392568
+    second: Vampires1_Walk_with_shadow_1
+  - first:
+      213: 2020973303990203779
+    second: Vampires1_Walk_with_shadow_2
+  - first:
+      213: -6417878724354838575
+    second: Vampires1_Walk_with_shadow_3
+  - first:
+      213: 7774687530326564475
+    second: Vampires1_Walk_with_shadow_4
+  - first:
+      213: -8974120902603320875
+    second: Vampires1_Walk_with_shadow_5
+  - first:
+      213: 7832115028372445408
+    second: Vampires1_Walk_with_shadow_6
+  - first:
+      213: -5301377168554565486
+    second: Vampires1_Walk_with_shadow_7
+  - first:
+      213: 1762259920895315265
+    second: Vampires1_Walk_with_shadow_8
+  - first:
+      213: -1105029149840241691
+    second: Vampires1_Walk_with_shadow_9
+  - first:
+      213: 6826517531845449506
+    second: Vampires1_Walk_with_shadow_10
+  - first:
+      213: 2485175089436360805
+    second: Vampires1_Walk_with_shadow_11
+  - first:
+      213: -7661405269482426532
+    second: Vampires1_Walk_with_shadow_12
+  - first:
+      213: -5723236248389763285
+    second: Vampires1_Walk_with_shadow_13
+  - first:
+      213: 7899497597024362209
+    second: Vampires1_Walk_with_shadow_14
+  - first:
+      213: 7638904744927997813
+    second: Vampires1_Walk_with_shadow_15
+  - first:
+      213: 6970913593254746432
+    second: Vampires1_Walk_with_shadow_16
+  - first:
+      213: 3557496583819357610
+    second: Vampires1_Walk_with_shadow_17
+  - first:
+      213: -757236646712221752
+    second: Vampires1_Walk_with_shadow_18
+  - first:
+      213: 1884173678726191691
+    second: Vampires1_Walk_with_shadow_19
+  - first:
+      213: 2315534340720446507
+    second: Vampires1_Walk_with_shadow_20
+  - first:
+      213: 7123258871292162190
+    second: Vampires1_Walk_with_shadow_21
+  - first:
+      213: 3986340368931549804
+    second: Vampires1_Walk_with_shadow_22
+  - first:
+      213: 8597098045385776671
+    second: Vampires1_Walk_with_shadow_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Vampires1_Walk_with_shadow_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 208
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a2498ccbed31300800000000000000
+      internalID: 221765709071657554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Walk_with_shadow_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 208
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8371b6274cd2bdd50800000000000000
+      internalID: 6763049587183392568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Walk_with_shadow_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 208
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38532ec2380fb0c10800000000000000
+      internalID: 2020973303990203779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Walk_with_shadow_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 208
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfea47bd4d1fe6a0800000000000000
+      internalID: -6417878724354838575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Walk_with_shadow_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 208
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e16c4ed1d35eb60800000000000000
+      internalID: 7774687530326564475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Walk_with_shadow_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 208
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1dbe40694857380800000000000000
+      internalID: -8974120902603320875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Walk_with_shadow_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 144
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8532a3f1341bc60800000000000000
+      internalID: 7832115028372445408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Walk_with_shadow_7
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 144
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29060f79d89bd66b0800000000000000
+      internalID: -5301377168554565486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Walk_with_shadow_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 144
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d8fdaaf0ec47810800000000000000
+      internalID: 1762259920895315265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Walk_with_shadow_9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 144
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb0259c7d52aa0f0800000000000000
+      internalID: -1105029149840241691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Walk_with_shadow_10
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 144
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227df9ad689acbe50800000000000000
+      internalID: 6826517531845449506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Walk_with_shadow_11
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 144
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560018aa39d1d7220800000000000000
+      internalID: 2485175089436360805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Walk_with_shadow_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 80
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fa130df783da590800000000000000
+      internalID: -7661405269482426532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Walk_with_shadow_13
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 80
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fb61184faf290b0800000000000000
+      internalID: -5723236248389763285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Walk_with_shadow_14
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 80
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee50be0637a0ad60800000000000000
+      internalID: 7899497597024362209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Walk_with_shadow_15
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 80
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57faa729467d20a60800000000000000
+      internalID: 7638904744927997813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Walk_with_shadow_16
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 80
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04914e5caf8adb060800000000000000
+      internalID: 6970913593254746432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Walk_with_shadow_17
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 80
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aade7386b44ce5130800000000000000
+      internalID: 3557496583819357610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Walk_with_shadow_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 16
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf5fc52841cd75f0800000000000000
+      internalID: -757236646712221752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Walk_with_shadow_19
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 16
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a9d9f5afde52a10800000000000000
+      internalID: 1884173678726191691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Walk_with_shadow_20
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 16
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c4cd3f63e622020800000000000000
+      internalID: 2315534340720446507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Walk_with_shadow_21
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 16
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80f48ae336ead260800000000000000
+      internalID: 7123258871292162190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Walk_with_shadow_22
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 16
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62f6fbe173525730800000000000000
+      internalID: 3986340368931549804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Walk_with_shadow_23
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 16
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e9c667f170f4770800000000000000
+      internalID: 8597098045385776671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Vampires1_Walk_with_shadow_0: 221765709071657554
+      Vampires1_Walk_with_shadow_1: 6763049587183392568
+      Vampires1_Walk_with_shadow_10: 6826517531845449506
+      Vampires1_Walk_with_shadow_11: 2485175089436360805
+      Vampires1_Walk_with_shadow_12: -7661405269482426532
+      Vampires1_Walk_with_shadow_13: -5723236248389763285
+      Vampires1_Walk_with_shadow_14: 7899497597024362209
+      Vampires1_Walk_with_shadow_15: 7638904744927997813
+      Vampires1_Walk_with_shadow_16: 6970913593254746432
+      Vampires1_Walk_with_shadow_17: 3557496583819357610
+      Vampires1_Walk_with_shadow_18: -757236646712221752
+      Vampires1_Walk_with_shadow_19: 1884173678726191691
+      Vampires1_Walk_with_shadow_2: 2020973303990203779
+      Vampires1_Walk_with_shadow_20: 2315534340720446507
+      Vampires1_Walk_with_shadow_21: 7123258871292162190
+      Vampires1_Walk_with_shadow_22: 3986340368931549804
+      Vampires1_Walk_with_shadow_23: 8597098045385776671
+      Vampires1_Walk_with_shadow_3: -6417878724354838575
+      Vampires1_Walk_with_shadow_4: 7774687530326564475
+      Vampires1_Walk_with_shadow_5: -8974120902603320875
+      Vampires1_Walk_with_shadow_6: 7832115028372445408
+      Vampires1_Walk_with_shadow_7: -5301377168554565486
+      Vampires1_Walk_with_shadow_8: 1762259920895315265
+      Vampires1_Walk_with_shadow_9: -1105029149840241691
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ‰PNG
+
+   IHDR         §   tEXtSoftware Adobe ImageReadyqÉe<  viTXtXML:com.adobe.xmp     <?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 7.2-c000 79.dee3a7703, 2022/08/18-16:50:30        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:af47f6c3-5a15-b745-a6c9-6027710c04c2" xmpMM:DocumentID="xmp.did:52D31773A3C411EFAC1CAE88DAD29EFC" xmpMM:InstanceID="xmp.iid:52D31772A3C411EFAC1CAE88DAD29EFC" xmp:CreatorTool="Adobe Photoshop 23.5 (Windows)"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:a002d56c-35fe-4d42-adad-0fa6fdada89b" stRef:documentID="xmp.did:af47f6c3-5a15-b745-a6c9-6027710c04c2"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>X›ù„  :IDATxÚì{°UÕç×¥yX—-ˆáå\AKtZ›	E4„´dZ“TRV÷äa9¦1EÊ×tÆîLHÊîü‘Šq2±»'K[LLZcÏt¥’J73íFeH0Şñ¡Áe å™óİ÷ü6ëî»÷=ç^Î¹w¯µ?ŸªÍ¹g¿8¿µëûû­ßZ««V«9     ¨“(           À            À            À        €’ĞÕÕ•»,œw^­h[;—ìÿ  €      8   æÂ¹ój!Ÿ  p   `Ü°âé:¯Î_Ê’E ÀØ˜L À™"a¶gKj¬{úuÃDò‰ã?iéX	áİı¯–Rõ8x8èó     €ÛŠÙı¡µk†mûá«k£)‡²Ñ¸öµ%_ ¯-ß­^swÛÎ—];ÏÛnô;;ùûH À 08˜µûÄ¾Ãµm#•°Ü(EiÃ&×'ÀR 6lú9 €¦ >ÓŠŒ E Êvßîÿø·…ÇÏùİßR~„  ­`FOOÛ¢á:ÎWöè¿ 
+   ZÂ>!_08O ™ív½eûV~´ğø¿ôo’2°û![e€vïk1ÑŞìyhöüÛy¤â?{N¿l­V›°wØc®î¤lwN:plqıÿ^œ5”À  8 åÀEBØ§•8\V²9ğ==İõ}nÏckÓ}F²İ¶«Œ‹æíÓ¿µ®,9ğyâİğ…s]ÍÊÂwNï³Ø5{şçœ½=]ç‹;O w!l÷¥ÿ|oıÂ‡;şÿzï‡(‚&  E×xFbF)@&P³"¥•x÷ü9iÅ–çø¸Œ)@²?+ÒÎD «<üJŞ–Ñ~Ebıß8(€›Ú»¢ele`œìÛ”|fpŸYßş—úº{>§{íµ#næÓ[Ü§æº‡´Şıìg;Ü—÷;€,pW]u‰[õş[İİSö»ÃW/s³fÍp÷Ş·Ö-š7»ö[Äİ¦íş~ñÁO§×ÉñÆÜ›¿–Ü×EÏ¿ÖïÿÎ§ë$ş;ï¥·=4äùğßãY.~ËCÖ	È¶ZœiPÅÎ·ô+?ÈÿÔa  8 ¥ÀÙÊ±•¸ïd#à`p™í÷Û)÷Vòım‡“|şúŠkF,ßöiÏ?•¬{cæ`å7iˆ ,ƒ}¾³N€ğ!ñŞìù×ñ>ş¹²â?$˜(À®»ºÊA6´Ã	ğÅ¿l—İr0²ç¤ À( V%Õ®xö¼`p`?Oİ€zæ/Yæ¦O=àV?úîW}¯)ÙşŞóÜš•ŸqÇOÎqû¶mIïû¼ø‰t€ó&Ês„ıOí]Şôù¯õm²ÎZš‰ÿ‰v ìÚØoõ £gÀO™òÅ¿•iŞ9&Únûİã5DÑÿC] 8 %q ´~éµ+Óm|ëÆG‡¥¿ €ÃÀ&/}×ùMğ‹Ï½2$í©l¸Ùıo"ÍÿíÆoznp³zßR¾í¯õMr“6¸¬ ôsàË’ÔÌ	xå;ÿ1ùlGØù7ÿySñ_`¤¨Ÿ¿´³é}ûÎE×²Î©   ŒIAûĞ‹Y•”*½Ë]TÓbbVâWbg$´]û	gça@_ ©â–hWêÎæ×÷vi‘°•¸—ØË–ƒ‰@m×~vŒÏŠÿ²v„6‘j´~³uÕ¢ÎŠnKèúe~k?;&+€ÇKdœ	jv¬l1ü20Û}Áh‹	@–eF¢Ürò%şÕ¶êÖ›’–¬±<ÿ:NÇë<æL”¹ãkâàŞöPòÒµ²ë¥khK+d÷·sY
+TQ'ì2½C=? T‹¶EÓª>¾o¿D»Ÿ#š¥ÁdÓ_„ŸóÂK»‚ O[øÉai Yüëİß"ËnfÿHĞ³?±_XøXöwüÛ!bÈÖ¡´ åÀŸÃ—Üü§ÿ«ûå‚3ìøËöşÂí»ú?¸W6|q˜Caç*c€¬¶V ííhS@³èÿx—K¶°>Ï·À]yÏíéh@Ù¨íı½#ş~gñ¼¾aPÿ‚gïı†;Ô¿7u¸&Úîl½T4D»ê½fçŸÈç‚úû±?<û´Mø"Ub½.Úk¾ ˜æv$•»„ŸÈK±Ê]cı{v9;Ÿ/€Ë\6¤UŞ¾xÛÅİÀŞ‰àµrğğìúö7ö«üó„uYïwz(Ìä÷ú"şüëøïìG½‡àİMpe' Å®£G“{ü¶5w¥ë\ıu§;}JÎ1vÍC°İgæŠÏ»=›~æf~äªä»lkåùïY°Ü9-uş¥~ü…+®*½­&Æõ_W““ò¡µ§;	ı¢sd[
+¬óoÑèhe‚‰Ğ  $Úê ´š¢0Ö‰°Bh5¬ô•¤âŸé	àzÅî‹ßl\•ÿ^'ÀÈğÛB·P ×íÏ
+ pxXcÕ+~n]È©~sóãÉ÷U·Üî~ìîÊÍïv¸ü&×SßşÊ†¡×_‘ßAñ×„Öxş×~îîDüK¼÷4Fõ¤ùóïï¡»*9ÏåóobÜ{û}6§9õåàÎİîÜƒ¯¹Y½+Şá+kê2mö²$ rEøç¼ûZš¦Õú/¯oY©zııØšımu ò&‚Ê3|,a…0T+XEÀ8|\Ô_Á®‘ Î»ş¡E¾³â]ğ…ï|/dOYxNòùì3?M?¯|Ï»ÓõJJDïÍ7¦Câ††Ùk"6y¯ÕËAßö?ÿ&ş»3N€Î¾# gÈì˜z é(H=¦ûÇ6Ù×™NYvª^ÿc?ö‡f[€¢&ÊV&Âòg€-*ˆš@›	`‰_åg#àIŞï‚åQà±D€CÀ6æ²}"x#`m— [|‚™N&Á¶wÜHÏ÷-wÛ?aS˜e ûwãı.éÑlda3AÏzïAŠ{÷[ç°±ÖÖ—*„ PÕëìÇşĞìo›PÔš+‰å@^AäÍP|˜ >ëû_v×ôöº§ê•½D°‰?‰ßd}}û‘©'£ÀÕkVÎ¯î°o‚°Uá(ûuÜ¾m®ræƒ¯IíÚxÿnÙeƒ×|çAÇÖ>…¶+b,Ákâ9/ZRvÔQU¶d_ä¯şÉÔF|şÿäêûïíÊF…BfÉY»İÇÖ¶<ˆöS_·ùx8všà÷@Ğ§¥Ã¥şÓˆ`yÃ —±N¨zııØ¢ıíœ[†ìİœ»¯šÆ{ß¬ üB½üıèï‘¿¼Ë=Õ×—Vş<ôíd›¾[
+ˆ	`!Bî3cùÌ>EØw„&Ä
+Yü[N¼F‡‘ Ö÷S»Ô”òuíÊ¦ûêû X~>‰kÿøĞléÕìù/:O™‡¿,bùÛÔ.:ç×{xW"ê'À¹¦£ ]_ß¿ïÔ4p(Á¼QĞœÛö…™{rjÒúSTÿ©èÅF hÎÙÅ£ … ©rııØ_vûÛê oZk"¤f9 [|eHRh~ô[)/B•ÿ¬;q¬ûT”PJŒí?’—ªı£À±!¼ä¬£®H §ğ°—>5:Œÿ"S´{ã£—<úL¢ß}}.o}†$~Gza·ôü¿>úó–…üG¡¿ûÕÇÜ´úõmu4‚úñÏŞâ>0k†{ã¾µ59ŠFA;ëğÉDü\ÿÕ„ºıoÎœêìxÚ U­ÿ±ûC³¿me'‚²BZš/´]ûÙ1E3¡†âıù©/Y<ÒwÁ:>ÄÈß°²ğÊàÔî£©àõ°ÖçíƒóÓİH1g8ıl¼öÓş!;AÍÄêâÙÓ“Ï-¿<wÈ÷±/4ìy·|ÿ¼ç?4ÉÃë2àHáù“ ê86dv"´®ŞåMÅ¿ÕÚOûçM„ÒDU«ÿ±ûC´R;_~E3¡.½vem43ajÿPgB…b'ÀF3¹cé%C°¾mï0úŸíĞ8’ ög”ßv‰»u[w$ŸZïUğwÒ±ÑäO¶”	EímÉÚ[4´_yÇ‡ôQÚ§ÄºÍ¯´1Ú™ uœEş´è¼eU½şÇ~ìÑş¶÷ÈkU³îhr@µÿŒ™=Á5fÉ¨(·r}ıô¡4?*Şi
+Œ:GöåÜöƒÇS¬”ûn³|Ææøø$Bw«kä6ïìè˜~wÁŞ£ ]M¾GI«ÏÌŒ8
+Z¨ÏxC˜[/ãğ¦ûÜ©™“İ‡ÇĞâÉ,Ğo¥£‚ßØoË“®ÔÃ…V½şÇ~ìÉşIí<Y^¨rá½¾ñô›}ã-TûigÒ@y"N]ÄOÿ°H¯Ÿ¢ıl}L€EÁ%t•ïíG€ıï±E¿ó†3ÌŠıì÷ËÜ°çßğŸÿ˜Q§`Ù©
+î‰u«Ügnº,ùÔw­×öĞ„¿õÛ±ùl‘ø_uë`Çn½ß4ÉY+õŸö³ş0:^çñÏkÿ—ıße*ª×ÿØı¡Ù?©S…`M B^{	”j/?‹ûM !~à@–îñô–ç“uúô×Û¾& uúŒF ÄŠÿüûŸÍúAÄBv$}ê»‰Ş„êÀ5úíø‹P?†óoşs×7óºÁ‰á3ÁÕÚ®ı´¿Óñò&åı–²ˆ ªÖÿØı!Ù?©'U¾¢†³<åŞJFsè;vlÈö¢PCûë8¯óè|!’şæå;­%
+<;b›`´ÏŒh$›Pâ_Î?ªÍRvñoAÑ;ËqÉ=ßMD¼?+´uì/ªÿlí¯ãt¼ÎcïD[òşÿ29U¯ÿ±ûC±r'^Ieãe7kÖ·í·»™yë=üwÍô^÷?f^4Ìh5}<u¸/‰~¼áş1Î¢:ŸÆI‰Ø¢J>o}¨ã 9­îS‹ÇXïÙØÊ!ÚĞÙ¶k”ë£¡¨Äcõ×ÃÒ¢B{ıõzg'-·:Ğ&ÁÓäf×÷Pÿıå]nÛ›‡L†×j@¤,ucÕëìÇş ì÷G‘8“Å/ [>úÍ­5­O}W§–—vü´öí¿újíêeW$ŸúnÛòË6s¶ë7·sÉŞí¾©:qÍ:e³ß?Z{;uÏ²°°´ÿy/Bï÷?ıÉ{^ï~­Ó§¿~"ë°vÚ­wØù‹>5¤îj¥şóëP;¾Œå@ııØ¾ım-€ìËÊŒ±õ2XÆjÑßÚ–]—w\VR³°°°„ç üõï]?Lè­ÙÈ«[­ÿÆ8™èû¡Êõ?öcˆö·µ@¶‰Âr#³ë›M„Styá  aRµ>ÙúÊR ”òä×ú®õşdˆ!ÖwU¯ÿ±ûC³ÒxŠ½ 5îµ¿Mß³/@Ä> @9kÄé™C/wf}§Z#&
+X«ãb¶êõ?öc™íŸ<^¡æ]oª!ôÂóG|°`2^Î¤H   !Ó¨×ë·××Ù0°éúH©zııØ_Fû»ÚAéêêjZ 9/Ã¦Ûò-ê  +U¯ÿ±ûC´¿1    P&Q     8      €      8      €      8      €      8      €      8      €      8      8      €      8      €      8      €      8      €      8      €      8      8      €      8      €      8   ‘²pŞyµ®®.×éEÿ¥  8      €  0\8w^-äó     Œ‚V¼³c"]çÕùË
+)P  a1™" €vÀ=ûû»ZÙ·{úuÃDÜ‰ã?iéX	áİı¯v•±<ôù    ÀmÅìşĞÚ5Ã¶ığÎÕµÑ”CÙh\ûÚ’‹/Ğ×–ï…V¯¹Î»mçË®çm7úü}¤@ à  ˆ ÌÚ}bßaÇÚ¶‘ÊXn”¢´a“ëˆ`)P6ıœ‚ ÀS ŸiEˆ F ‡" e{ÖîûóÊÁ/ƒ µÌèéi[4\çÑùÊı¤@ à @BØ'dá‹ F ç	4³=Ïîƒ;w§Ï¾xá°2ÑqÙ2(ƒ TGÔ‘î}-&Ú›=Í;Ï‘Tük]WÁ¨ÕÆïñ˜Şó¾Ì¶ØmØZ–v.jÃÖ³’ÿ'ûøqğïN  €p‘öi% F —•l|OOwıcŸlH÷Yö±O$v?øÚĞcëß§Ï•”ÃÆûH×_4oŸş­œpeÉÏïÉµ9¦{ÔÕ¬,|'àô>‹]³çÎÙÛÓu¾ø·óèİÓ½Æ­lì¾Ì>ß’ë';ûÛ÷\t.®ıÜİ®{ş+¯(‚&  E×xFbF)@&P³"¥•¸_±å9¾ .c
+ìÏŠ´Ñ`£§Q*¿’÷;B–Ñ~eıß8(€ÛÕ?¿© &€·<ùDF ×Ë-#€ËøÌfíÿÊ—ÿ“{íµ#næÓ[Ü§æº‡´Ş-?û}nş’e‰ı²×°ïû¶mq›ıØ­zÿ­îî)ûİá«—¹Y³f¸/üé.ı|÷Ÿi»¿}çÅÄ¼DüöşŞä»	Ø¢ç_ëí‹çõ%âßœCçğŸÿ]1åâ7Bd =çºÛ!Ğun=7z/‰ê0  €R	à¼Ê1+„ó„o^%‡ C Ÿ;oAb«‰^ÿóPÿŞÒàf‚ĞO[Ñ=ğ¶Ã¿IÖo{sa®øÏs–œ5è¾1srrí³i0ep ²ÏwöÙÖ}.[„®ù…+®JŸñ‘mÛ³égÉ½ Tfæ 9Ç!„[)‡3u|ñ_» p `D(±Ò®xö¼¡`_ôûÎ@Ìø×W\ã^|î•DĞù‚×ÄŒ—¾ë|7íù§J+€Gr€ı<uÿ7ë9ÈÚíßóæúå`÷}^üD:Àyé÷­<çvŸË(zş%üí¹hå½ıé X9X…•œ Kkj%}ËOu’ø÷mWëÈDÛİÊıßIB Ê} :ˆ*+Ëí£Í-ÇÕE¢İğ4·#õ¾¸ñËÀÖÉĞ~Àë$€÷ìJp(c ûùß®/¼ŞH‡zî•\|Ğû®í/>'ñ»wPìNÍÀns½GsíM¼ùe`â_¶JàfÅ¿	]+Èû¶é>ê–_Æ{Àss$XM '¶ÕŸy»Ç­|²ĞXÄÙ°2Ğµ¯_Ë$¥©,eÊ³  p ‚À,ƒxwıµ¸ğS!üÔ?Z"øyƒ cÀ&şcÀ§#š£+KC!`ë¬$ä,Š[$l}¡¼§áêoKSôØoY*»³opß¶¬³[”7d}&íG”Yü[ôÿ…ï|oØ6=×Û·é¯MÏcâ_e‘Ü›NoÓù7Şïje-&B€˜Ô®©	TÍÂ^ôÿ”õåoM¢MâMâı¥—$é,ÏæA[ÅoâØÒ_t\^úGY+©V	ZØº<Xô·“À®`Û%€Í^+¥3Øõ5;‹>µŸö7Û­<Âºô°Dº~«¥p˜€UäÛ¢û¾°õ®¶[ŒÖëx'„YpS!œ‰X[Äß{æe«-şz[¬ŠÎ[6ñ¯O‰ÿ+ï¹İ]~óÉb¶Ùû­h%ÿ<şûQÇÛ¹t^s.šg¢Ğ z?Û e¥êõ?öcˆöÓĞfìÿ-÷g/¼l?pìT*}Ñëç[üÏ9³¡G€M [T/Oğg#¿ÂR²¸Ì`ïÚ¤b]¿×lHmÍI1Á'Ác÷ƒçŸ+le ¡ ‡ˆüMn˜àÏ:1Ï:¡Øîcy}§§ˆlJTBã^¹Ğ]Uú4‹Èê¿®¦V
+?JXzWÖaÈ;‡Ÿ—M}ò÷+#L„ !ÑV ÕíX'Â
+¡	´™ ÎæAä?G)€“}<li¾ 6ÂÀ®©ó3Ä1(p‚ìš‡$€µ÷;Åf…~¾£`4æCpíW¾“BØÒ€ì~ömiş‹¼2’ø×y.Ÿc¹ÿöû¬ß“?ßÁÁÆ§œ(ÓÓC¨ºšeâ¿ŒÂ¿h"87˜–˜ÎƒÑÊ|0­ÖÙA Š~ÃDw†®zııØšımu ò&‚Ê3|,a…0ÔH8O š Î
+@õˆE 
+Âáög£¼YûíØp6]+7Âë†æ‰g»B±ÛÓ{Ş7Dà)u#/7&¾öÓşJûğÓ^B­ÌìõÇ®÷#âYg ëugœ€¼¼úP‰}¿%@ìşÑæ!Ï„¾gÅãø¨&û:Ó‰ ËNÕëìÇşĞìo«PÔDÙÊDXş°EBhQx4ø#g„.€ıü÷¼o ¶Nƒê ¢ 6ªógmÍK…ñ€¬CPÖ!OÛ"†¼ô-DÆC#ÁÎ¾ÿŠDŞş#=3ewÙÏ¶X_káHœÆœÈÈ£ ùÑÀ3©ÿ,•4„ PÕëìÇşĞìo›‰~×²³Áú†ÔîDŞ,°EÁ‡E€[€¡G€³Øêù¶›øË+Ùº öÇ¿7»4Ô©„O›ø)3|b)G<jË7»lˆÛlÄÊIzÈ¦Óëò¢%eG×Òlõ_äÙÔİû#Í î!*šÔM¶e[' Gü[Yè¸ÍÇÃ±3o4€Œµş³™¤³ƒ@”±N¨zııØ¢ıí<š‰°²…ÒÈı­…ò…ªåhæMf“ı;Ï1PYè¸ÁYqû6”Ÿ¬óSè ål·™dCÿ–¯ô›ÄiùÛÔ²Â>|¯ïí²\pÿøĞl/zgÙÇfwFğ
+_ôúç)ëÈ7#¡k}Ñ9ç¸kzOº¯Õ¯¿åş[¿'ÿ1tŸüñ¢“®ïØ9õojº'B°5oˆl_˜1Ôõ¿¶5DUëìÇşío[„5o&T›Ôö)šËŠŞÓ`Şl eÃVÙ©ì-·9½A2éşvİ*»Bt Tşì ¾~³å‰ûec‚1dÇgzÏû†\’·¬ 6ü™Tuıü¸+D»³âÕ¾K^ÓÛë¾öÒÔTäHğ=Õ×çLìùûÛ÷²”Ã@›rõ²+j?ö÷‡ËorÛŞ\˜Ú/ñÿÍÍ»U·ÜîŞòü˜ÿƒ‰	ØçòEÕîùüÉlàßıêc©½zÖ­²S]à·Z«ÊããŸ½%™üŞûÖº^ÚÕ‚İyƒ5È	0üYĞ‹°–@a3('ÎcÀ‰|WV½şÇ~ìÑş¶Í7¾ÖÉ-—¾ëüAA“ß>µ^ÛµŸ“g|(“¡dÅÿ°í^8=ÄÈ_‘­¾¸é{wD³š°1‡Fë$xMô› ¶^ûiÿg@mµX<{zš¢O}?“ó…ÆmkîrË.;”Ø¯O}‰÷‡×?8vÖœ!÷vø×~Ú_ÇéøÈÎƒ¡E¢_é|Züá³sCØ:ÛWÇÙ9BH­zııØ¢ımíP4ª^b/>÷ŠËÎëi/Cƒ/Ñ›Í±	´UAkGÈ¬ÏŞû$Â%ÁûµF„	à¯½´7H(6üƒ‚÷·¤o‡'€¿+ı#;£lˆäD(üg¶ë=ç^P{æĞËéºìwWâ~g}¹æ]¿3ä»Z5êëjí:™È‹ÚÛ½]ÔÄwôšEıËôÑˆg¶ºaCÿZäÏü6Œ­óëEÍ¡¾BÚ¾a«R;õ§*«3\õúû±?DûÛŞ ;¾c/CË}*šÊ^Šû’©ã·§ŞUãàE“Ê¯!ğı§ó<‡¦„Ä÷‘øI oëÏæìµLÒ\¶ºFnóŞÁœïô»‹ş±?ì{¬œÚ}4Iÿ¹vå‡¬ß¹ãe÷àê¯W¡Ò–ŸÜ> Ç}Æ­´ÖßËÿ¥<ùâ?oHhs’ô€L¿!ÿ-OºRZõúû±?$û;ÒÀÆ®ß°õ¬a/Å¢Ù1óÖ«Iä†¥o&ûM !ôğ{›ÈW³®‰à)Ïq[~yn’ a YÛî;¹€9:~¸/xıïÙıCï0ÖÊÚDEˆ}  µt¨ÿƒú;èùê¹ÿ´ èù·õ¡8Ccéa‚Å;xn ùw³%ëv=êÆÒéw¢ú Ø3ÚJkZ7³£ùÈI°V¿/Ty£L•¥@ëìÇşíŸÔî‚°<H3ŞÙùFö4rAm»ÖÛ°p¶]Çë<¡ÿéWY¯Eâşá÷LIÖ«³ŸÖY§?­×vÛ×oˆ¡€O¶’e¤€3Åú;HüûŸÍúAÄ‚D¾èÏŠÿŞïş;ÙúíøKVü«~óÅv_­×v›oÈÿ—9·ßg*û[&šª×ÿØı!Ù?©'U³‡?îsÑ0‡Í¾ëSçñGR‰l^«ş^·uG® Öúì¾şè0¡2;b›@(º¯ç</*o}™Qj´‹Z=4Ú‘Ä¾µ„ÚßZ¯íc9ïx‹Òø‹ŞY¶˜h÷Å¿Uöy‚­³}|'À*Ö–¼ÿ¿LN@ÕëìÇşPìo›`/bö1û’“w£·?Ì‘Ök»ïÙ09_ãJJH‘ˆ-Švç­Å	0[Ú¹_lvÇ^pZìf}ŒhÔ#‰}Ù¬ÏFA*z.³Î€/Şm<-Eïs­·}z2#ÄeEßU¯ÿ±ûC´¿#ù3~Úl—–ûnÛó:	uµQqü³U~yç‰-¨*´!' ¢A}¾õñÕiC ÿoï÷İ©¾£QØéO€g³BÛ$xVßÕ6ş¶QÓBT½şÇ~ìÆş±4¹-Y¡ªïıæÖ4GQá¼´ã§5½ımú®õÚwœ¾vş^–ñYôÿëß»>yß·²¾ŒËhÈÖ_­ÖEÇg]NııØ¿ı9úFX|û¯¾š«múÔ÷ì°èåGEÊÂÂÂ®0šõ!; YFSÿMt0úû±?~û'u²5!›
+cã`kÜk›¾k½¶gSh&²Ã  ´Ğû@œ‰°(›óÁê8}×z¿şk×ÿ9‘eSµúû±?4û'Wá(ÂsÇÒKÜöƒÇİÆGÿnH¨¾kìd(¼œI‘   B¦Q¯Öo¯®³a Óõ‘Rõúû±¿Œöwt¢%Òë •y6İFÔ   ,ª^ÿc?ö—İş.6    @u˜D     à             à             à             à             à             à      à             à             à             à             à             à      à             à             à         ÄOWW×˜–…óÎ«ùß     zLé     €!z.œ;k  Ğ&S à‰¢{úu¹6Î9{»»aÅ;İ†M?Æë=°gáÁµ>  à D+ ªXÑ#€ãÀE¶híšÜm[¿ğawààa^   8 € F ÇÄ‰}†­{ñÁO»%_à¶í|ÙıÆ  À@  €À1±¿gşàQ8ÀjY$  p "ÿ±GÀÀÕÀK¯]™*Ö½›İñ“sÜì‹¦×~FOO%®ıhà"GÁü Ş˜  € ÈÅÇ’Tè1GÀÍvpµ°lÿÀÊº9,pïè=Ï]ô¯ŞæV½ÿVwêûO^ÿ™İî”{+µ½Y'ØØàÇ×Ÿ•Åµk?w÷àsS>~xçê!ï	   €€ğÑ¿ZÌpğè°‹$Â›µ}ÍÊÏ$ëï²¿¾ñ’äïÃW/s³fÍp÷Ş·¶60p¢ò-@Ë>ö‰t‰ÿ…ÿ™‚P,9>ğcœ   €°È‹şÅ¸šØlf»ìş‡—ö»uG¦û½±gWò¹hŞìÄ	ŒõhÅ>ÿ†/E!şÛ,QHw£,ªZ  8 ‘€ÿø·ƒ¢wÁòÁÏzsŒ şí÷.bû®ºíû§L·/™w^òYµ ƒ;ûõîo%Ïş‘Tüë}°ô+?¨¤èµAÿ  8 Ñ
+ 9&ş% bËF #€eû¯ú^MşŞ~ğ¸ë=ûìÄ~İó†]så¾;×õ³oğ´çŸrÓ’¿¦º7Ü[®§§Û½²á‹ÉšKo{¨²â?;â  @àLr@w÷¿u
+ˆÀ©ú2× ıŠQ"€›à£ß²}ıïO®ıvo½^C‘ïä³¾lyÒÕb|E°îƒÅÖ/áµ€9µ€uWlXT1˜ï¿}È ˆÿ°©zııè¿±”K§í§ ä \=|pçn×}lK-6Á#Û}ú"ú÷lúYºMé/ê “u€­êëK·[˜}EÿãúÃÑ6Bìe  0Q”Úˆq",_ H$ bÁ­
+à-OªCptÛHXâ÷ÂW%ßÕ!tß¶-QÙ¾uã£]W/»¢ö©Oÿ{·nõSîšŞŞ!bßÇ:¾êSùßïÃ	ğ`a-`oÎœš®h<¿é¹!ùŒ5òİlã…ï|/ùŒé>€êÖÿØıe²Â€3	3T ñ/Š@Œ9ĞÍğå7ß˜ÁùK–Õp\•ıH¸HÇÈ•ïy·suİ÷àê¯'ß§,<'ùtúêlrîòù7~?Däq€½0ßV‡_¦ûÀÄo¬Í`ƒ Xô_÷À³÷~#­/ª8ª¿.¦™Ÿ«Tÿcuí/zş'ÚşÉ}ñ[	3F“}ÀQpñİäı]'¶x3|¨ï' F'èé-Ïw­ºåöÚÃ}#)ƒ;^v›şé™º¸ rê¿®&Á'qèOz£ì‹~³SŸé;qSœ•~Ñ(hêølƒ ˜ø—C0aâ³Å_•êìÇş²Ù?á- ÍfÂŒ)ÆÀº­;lpUvŠö).$ cÌI W"œü)v'Èí[~yîa§¿ë"8y1fÓ_Ñ’ Ÿ‡<Øÿ¬²?Ök^4
+ÚáíÿsˆøW8	uñ_Uá_…ˆ*ÕÿØıe³Â€f3aÆ‚	 ‰¿gŸ¹,À†Ä¿9±¦‚	à,=ùD¶Ïºã‘4ú«H¸Ò]ª€ÁGúv®¸3' »-!˜u€óìÊqz¢ÿş(hÍ>©‘P‡T€±‹ÿª§€T¥şÇ~ì/£ıî hÄ‘7flŞ_«Øn„X[òğ¹óœ®+ğ0lÑ_ËmV®{Q³`L<ûÌOGŒDxÏ>ÿ¯Ç_y£ ]xpÀ‚f"¸£Gİœ}^ÔÑ¿åo_à‰şİî¼ÿòß‡íS…ˆªÕÿØıe³B Ëä€{ñ¹W’¿ü™0ı‰°\ Íş­
+à¤¢¼óg3¬Üoµ€\yÏí•°ß°	<ÿSÑï˜[d{¶¬Šèù—SP%›‡ÌÒH²QĞ>şÙ[ÜC Ç,şï¨;<œš›®ÛóØZ7çw?ı{
+DÕëìÇş²Ø?y"ŒÏÏj|¬aå	`áG}«ÏÀrª"ş›	àXï	ŞS»Ö”ï[5ìù?SB&oİ6àÃëúšûâ¿h6øØS ª^ÿc?ö—ÉşÉi¼Ÿ:cfO:Œ·HU°¢¾JƒQ¸9±ŠÀ"ìw •V°•CÌB`ñìéuû+«ÿ›¦@ÅHÑ(hêôk#>ÅšîX$ş­T™¬ûş—İ‹ug(Öˆª×ÿØıe³Òx/ÌøËöş"ÓŒ—á±÷ 7\‚CDŸ†‚ÔgC v"ê(,ÛóÆÁ¯ÀUeóë{»4–>«*ş³ÏğGA6
+Rìâß0ñï×ªüµ¨Eä™“]OOwRjô#½÷c	¨êõ?öcíŸ4Şáç€j½ø™{rjùˆYü$€s†C¬¤ ]TQ +UÅ_9ôrWv]+p˜h´_¸'Ö­r·­¹+iıÒû¿
+Ï{Qh •e­«n½)q4
+sb³½ªõ?öc™ìŸ4ŞÆû9 –a³âÊš¶ğ“éÄ/1ÓJ8V'`$\!ĞLü3éÏŒÁU·ÜôpíÊ&ó€TMü[h¨â×lğ'Ò~Š
+µ [+°-1Ø^Åúû±¿lö«àç€ú¨)X#@(òaÃ!Å.şZ ÇZ9V-ıc,Ñîã?îŠ!êcşc¦J£ Ùµ¶:PÑKRÅo) ‹æÍNE5C´°[B-ƒª×ÿØıe³\€¢Ğm¿uÜÍš5#ù[£ hÄ˜š=óàhR $«$€MøÆ’öĞ®¨R¢ªÚÂ¯ı(µ Øb) Yñ“íU¬ÿ±ûËhÿ¸E»ººÜé™p‡3å#êoºÏíêŸ?ä{ñ! ÂEïC#âXó÷™¶‚„R7˜ı~hÁ½Ò÷«t?kş×ˆp6(D¨6Sÿc?ö—Ûşq´h&Ly=[œ?ìeg³£R} ÄCÕ‡ù)PıÉ¿š%¶º¯êõ?öcÙìŸ<‘b/Àî_>k(â  .’¨ÿVW«ú0°#Q…º¯êõ?öcÿDÛ?îÃ€*ïó—ß”x?} €ø¡Ä UŸ¥êõ?öc™ì×> 6¢†=Mş'}    Tü>BuáX[@BíPåúû±¿Œö{
+õ€  ¨9•x%[½«^ÿc?ö—Ê1!º    P&Q     8      €      8      €      8      €      8      €      8      €      8      8      €      8      €      8      €      8      €      8      €      8      8      €      8      €      8      €  qĞÕÕ•.çWó¿f    €à@      €À•âÂ¹ój”  @ù˜L tN ïÙß_Yæ†ït6¹Úc‹s·Ÿ8ş“`Ë¦™£z&×¾VÃo  € Å ³ n…'ŸZ»&wûï\]‹½   p  Œ ®„ n8~µ%_à¶~áÃîÒÛªÜı_u  p *IÕ ¸Ú8ËÀ¾8Àr€   ’˜ ¨¢€ F Û=0£§Ç½øà§İù7|)Ypçn7}êwé»Î¯[™ä»mİøhPÏH÷ôë
+óôLØ“  8 ÄÀH‚¡J O «\boˆQ 7ÃZ¿´\¾è¢ZOO·;õı/'Û¦_q{øGëİ®ÿ÷†ûUß«îÀË{µºRØ=kÏµDş‰Æı½ñ~EıÛ¶s»Ã €2ÒÅˆ(ÔÆ!A Ûv¾ì–~å¹ûşğÎÕÃœ€®‰_ÀG†	`_üÅ`¿†Aµ–	`}¾íğo’m¿ÎÀÿèß¤eªıÙ‘qtí%üïùüîµ×¸™OoI·=pjnò¹úÑ¿V!ØŸµU€ïÈÙ}eÃ=ÿr ²ğ–'ŸÈ „rı§÷¼¯0¨Á   8 8 ÇÆûˆÒ¨¢ ÎŞ1àV İÿ/õtşõsû·‹æ&å 2ø?ÿ´9Y¯2ø_?Yßš­#9±:ÀVfw"şë6ë6çìí    ’€‰  ~p`ïæà ¸¹ı±
+àVE±•#lÌ=95·Bv |1li?Y'`ÚÂO&â?Ø/ƒ¬ ”71'€:	  óĞ Cø9ĞæX¸Äè9Ğ­²hŞlwï}k‡	àËÎÙŸˆ¿5+?“ˆ?•ÁV~4)i‹l÷;B'xà´ vG:÷’sw/ri˜G¹ğBÏ@Êá“®÷ì³İöƒÇ›é’çà·ß»<Â!£Ö<uî½ös¥"8éÿàŞJœ·ı‰dİª÷ßš:ÀÂîıPßf·ßá¹Êƒ   TÖğS@FK şY Ó" à‘Ë *ØGQáeûDú]‘pc®›šş}÷”ıî/ŞïnıÒçâ±}şœTüçµ€m?¸Ë-==*ø´ós÷ ó×!æş@ııØ?Vû'ÚVZ :L• 8_O[¸ÌÍ¾xaµpCü÷Ô…°¥½ı¦çwáŠ«’¿å÷;–ÜÆúzÄ„R€Ô
+×¦ô'=ÿºö1:À²}[İöÁ>PÛİÇ(h  ebR'Onğª"ñ;0p" ¯Ü­Ûº#]$~$~M HüÆŠÒ@”ú¤h[|TrbDâ_¨$‚­3¨îŸX°Ä¿¢À=o|¦Nqæ»‡ÏÜt™ëøEÃ¡6"á©Ó£w€–7gNM—]GºxizŒ9À1\÷¾ó½dñQjPŞ2Ò|
+6U¯ÿ±ûËş;ÚÀL˜ƒâwÌ2ót|×á£•‰€Ï_²,ù[QA	E«Î’ßMÃ×'xÍûÜ#}Û=½åùú3±>x¨˜Ş°—{6ıÌêßë=¹×iû”…ç¸]»&Bø¶5w¹+ßóîÄş˜°{½gşIy¨c°¡ {şï~	yÙ|å=·7®ıI+€ZşbŸ!o¬ª‚Tõúû±¿™ıyƒIŒçóßQ€™0±ˆo•R@|÷£¾úûH¤¸Èù1û%‚/tWE-€5¤=÷‚¿²ÛuM”µì2ç®]ùAwñ%$¶¯ºåöÆµÏé“ıƒ-‹ÓryõOş`Ø¾!;Àvmõ_W“­T‚ßÒ ²“áÙ(h6^Œ Tª×ÿØıe·¿c€ß´ª3aú %,~ùÍ7º#yW— vWÌ>îS…póc÷ÂÀ?Ç'€³=mT˜ìdwú{Ë/1~&±?Väô˜3”-—%g¹!Ï,°Ù™äü7FAò Af.ş½JŒ‚v&­ ¡Sõúû±?ûÇµpv&Ìª`ĞÄ¿!ñëàÓ"p}”ög©BØÇÄ >?´ö·iİ§¢ÀÙh†
+“å\wEM×>VŠ¢;Éú³Ô²ÏLpbãÙ‰ÀY‡O¶|>ÿT%FA#–úû±¿ÌöwÔ0/(Ûü«™0cÇ%EÀW¼÷=•ÀÙ|ğXp‘óc) ªğ-J.a¬4˜˜p+"çÙg~e4³»
+Ï¿;ğÏ¯&#©ÅC£i4ó(h#¥ $)`u'Ğ¾o~}otïş*×ÿØı!Øß±Q€¬´
+A£¾Xó¯Œß·mK2¦ò?—^»²¦¥J á¬;êøŸ©”Íj±\p%%v,ü˜ì§pU9µû¨{põ×+YûUxşõş×LØtÿgÜÒUqOõõ¥£ i‰u4Ù­™¯-@[ö<¶ÖıúŠkÒå¥—¸åo_UXõúû±?û;ÚÀ/›÷ÈîoÕ¯F¨EÁ×ˆ€Ÿîè\"À>~GPK‰5ì;>Í°[SYÀ]ÓÛ›”AŒĞV¨Êóos!L=9¸âèÑäÚÇ>
+šR òf nóİKë;luµXƒª×ÿØı!Øßñ> Y`“‚0OhZEr@Mü™à?wŞ‚L‡Èø°‘íZœg7ø4Jyª¯ºPÿ^Ú•ÜÛJ³‘¡4‚ë(hÙ Í÷ÒKrë>ß	pMYåúû±¿ìöwt"0¿´Qé$Pzé_¶÷Ióï;zÏK!†æ «è|¨Å€û¸Êi &€cï <’ ®*rz”RUç§jÏ¿¥şY`Ä&ÂKFAsqÍ¢ˆŸêu V§áß˜99iñ Ğ’­û857:¨Šõ?öc(öO¯BĞ"ïGQå<êE¨0b	7oøÃª	`?ß· Ö&£]9ôrWvpüN€Ğû_}4
+ÒëVE3´	Í… EâÕ­7%ÛdïşFÔõ‡wE?|•ëìÇş²Û?i<ş½§-üdêıÈx½ÓPw:4Vñ_uœWUˆ 7»ªı†ê:Àz&4
+’†>r¸¢ßµşZ°Eş^ÿ¸8áŞœ95>±Õ}ÔÿØıaØ?i¼ş£dB¤n÷ñÏŞ’6ıò‚Ôü«B¨Šğ«Š n¥b´K‘ìã?îKTªsïWõùm$Kóô[8–~åIäoÑ¼ÙÉ"$L¨T+€_÷Åz/T­şÇ~ìÁş; Šˆ\û¹»ÓñğgÍšá¶ıÖñô(bËğ‹5Â·g´B ¤ûûL–*§@ÅÚ"Ï	° [„¥@ÅT÷Qÿc?ö‡cW§*œ®®®´ üõÍÛçf®ø¼;õı/§ë²ÍÀˆ@ €rcïø±¢±ïÕ.ìG¾C|ÿç•…ê>ü¦Á„úç÷¾£p"¸ê¿ª×ÿØı!ØßÑa@mÖSİ®şºGT÷†*4.  'æa`G~;]î9~zÛıı‰Öy&ôª×ÿØıe·¿£@^¼Öm¼ßÕ&16ê   ä“Dı#šüªÕ:Ğˆ}”ª×ÿØıe·òDÌÎ/¾  ÚÔT]éVß*NXõúû±¿,öOÈ‚P“Ç©İG“<Ğd8¼È£A   ¢Q×U¶Î«zııØ?ÑöO.CA¨X¬y   7gĞRù€WÕëìÇş‰²Ÿw     *Ä$Š            p             p             p             p             p                   p             p             p             ÚËÿ` Mû‹¾ÍJ6    IEND®B`‚                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              fileFormatVersion: 2
+guid: b5487c3906689a9409752144427e1f19
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2820296662543822032
+    second: Vampires2_Attack_body_0
+  - first:
+      213: 4294243767663607303
+    second: Vampires2_Attack_body_1
+  - first:
+      213: -7337277475241917244
+    second: Vampires2_Attack_body_2
+  - first:
+      213: 4454073663053133741
+    second: Vampires2_Attack_body_3
+  - first:
+      213: 1383860480375262310
+    second: Vampires2_Attack_body_4
+  - first:
+      213: -1384753013287253540
+    second: Vampires2_Attack_body_5
+  - first:
+      213: 6439567616416757616
+    second: Vampires2_Attack_body_6
+  - first:
+      213: 7831917425175414950
+    second: Vampires2_Attack_body_7
+  - first:
+      213: 242023167948965123
+    second: Vampires2_Attack_body_8
+  - first:
+      213: 8688949189966550856
+    second: Vampires2_Attack_body_9
+  - first:
+      213: -422336994610508573
+    second: Vampires2_Attack_body_10
+  - first:
+      213: -6446217112669348481
+    second: Vampires2_Attack_body_11
+  - first:
+      213: 4223059506139379941
+    second: Vampires2_Attack_body_12
+  - first:
+      213: -9070071388117870056
+    second: Vampires2_Attack_body_13
+  - first:
+      213: 6790553752381427897
+    second: Vampires2_Attack_body_14
+  - first:
+      213: 3517278595708403226
+    second: Vampires2_Attack_body_15
+  - first:
+      213: -5348565537721146882
+    second: Vampires2_Attack_body_16
+  - first:
+      213: 3353013392791962038
+    second: Vampires2_Attack_body_17
+  - first:
+      213: -7335114802247725667
+    second: Vampires2_Attack_body_18
+  - first:
+      213: -5222058826894767804
+    second: Vampires2_Attack_body_19
+  - first:
+      213: 4155878985335705234
+    second: Vampires2_Attack_body_20
+  - first:
+      213: 2116941943657947251
+    second: Vampires2_Attack_body_21
+  - first:
+      213: -9126674477401028855
+    second: Vampires2_Attack_body_22
+  - first:
+      213: 6216869114303448359
+    second: Vampires2_Attack_body_23
+  - first:
+      213: 4438625017808671568
+    second: Vampires2_Attack_body_24
+  - first:
+      213: -689021262515825829
+    second: Vampires2_Attack_body_25
+  - first:
+      213: 6554307842380210086
+    second: Vampires2_Attack_body_26
+  - first:
+      213: -9088759270682883362
+    second: Vampires2_Attack_body_27
+  - first:
+      213: -1378084580224576735
+    second: Vampires2_Attack_body_28
+  - first:
+      213: -2082499150861836124
+    second: Vampires2_Attack_body_29
+  - first:
+      213: 6580534456834981227
+    second: Vampires2_Attack_body_30
+  - first:
+      213: 694885213428321647
+    second: Vampires2_Attack_body_31
+  - first:
+      213: -1598366796752790145
+    second: Vampires2_Attack_body_32
+  - first:
+      213: -5460850147656510220
+    second: Vampires2_Attack_body_33
+  - first:
+      213: 3420108186709721976
+    second: Vampires2_Attack_body_34
+  - first:
+      213: -608726084516033308
+    second: Vampires2_Attack_body_35
+  - first:
+      213: 7562871630455433820
+    second: Vampires2_Attack_body_36
+  - first:
+      213: 5452889907351911639
+    second: Vampires2_Attack_body_37
+  - first:
+      213: -1520890394587668161
+    second: Vampires2_Attack_body_38
+  - first:
+      213: 6150990617680452716
+    second: Vampires2_Attack_body_39
+  - first:
+      213: -8854483942386357895
+    second: Vampires2_Attack_body_40
+  - first:
+      213: 6161336678414738088
+    second: Vampires2_Attack_body_41
+  - first:
+      213: -6174075267418661382
+    second: Vampires2_Attack_body_42
+  - first:
+      213: 2455036181779584702
+    second: Vampires2_Attack_body_43
+  - first:
+      213: -3047093965657984978
+    second: Vampires2_Attack_body_44
+  - first:
+      213: -8098323554754864203
+    second: Vampires2_Attack_body_45
+  - first:
+      213: -7327344634558601509
+    second: Vampires2_Attack_body_46
+  - first:
+      213: 5869141204077646391
+    second: Vampires2_Attack_body_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Vampires2_Attack_body_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 211
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0331bd3c02b4cd8d0800000000000000
+      internalID: -2820296662543822032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires2_Attack_body_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 216
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e368e64f7389b30800000000000000
+      internalID: 4294243767663607303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires2_Attack_body_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 216
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c40bb5c201cc2a90800000000000000
+      internalID: -7337277475241917244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires2_Attack_body_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 217
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+     

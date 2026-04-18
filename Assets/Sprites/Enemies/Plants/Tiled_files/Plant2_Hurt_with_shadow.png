@@ -1,0 +1,521 @@
+fileFormatVersion: 2
+guid: 273e62cb9016ef84dab29fb009a2eb5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6025998920576932457
+    second: Vampires1_Hurt_without_shadow_0
+  - first:
+      213: 8028539181170493980
+    second: Vampires1_Hurt_without_shadow_1
+  - first:
+      213: 6029479991260670257
+    second: Vampires1_Hurt_without_shadow_2
+  - first:
+      213: -3201124566251665626
+    second: Vampires1_Hurt_without_shadow_3
+  - first:
+      213: 6002494840251412787
+    second: Vampires1_Hurt_without_shadow_4
+  - first:
+      213: 5924554818552032723
+    second: Vampires1_Hurt_without_shadow_5
+  - first:
+      213: 3080798796628966451
+    second: Vampires1_Hurt_without_shadow_6
+  - first:
+      213: -7956914503103740502
+    second: Vampires1_Hurt_without_shadow_7
+  - first:
+      213: 7199392095523302402
+    second: Vampires1_Hurt_without_shadow_8
+  - first:
+      213: -4516500186466803424
+    second: Vampires1_Hurt_without_shadow_9
+  - first:
+      213: 5786351341731852489
+    second: Vampires1_Hurt_without_shadow_10
+  - first:
+      213: 7281116470895938590
+    second: Vampires1_Hurt_without_shadow_11
+  - first:
+      213: 2022653678853234744
+    second: Vampires1_Hurt_without_shadow_12
+  - first:
+      213: -1375110258383914921
+    second: Vampires1_Hurt_without_shadow_13
+  - first:
+      213: 1306877213110929797
+    second: Vampires1_Hurt_without_shadow_14
+  - first:
+      213: -1933651067760965205
+    second: Vampires1_Hurt_without_shadow_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Vampires1_Hurt_without_shadow_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 211
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a10e55716a0a350800000000000000
+      internalID: 6025998920576932457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Hurt_without_shadow_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 211
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a09f629d91b6f60800000000000000
+      internalID: 8028539181170493980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Hurt_without_shadow_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 211
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139ea634b140da350800000000000000
+      internalID: 6029479991260670257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Hurt_without_shadow_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 211
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6270bc2da225393d0800000000000000
+      internalID: -3201124566251665626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Hurt_without_shadow_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 147
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331fc4f21452d4350800000000000000
+      internalID: 6002494840251412787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Hurt_without_shadow_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 147
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd6f14c73f383250800000000000000
+      internalID: 5924554818552032723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Hurt_without_shadow_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 147
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c3589ce2231ca20800000000000000
+      internalID: 3080798796628966451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Hurt_without_shadow_7
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 147
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5095eba6c539190800000000000000
+      internalID: -7956914503103740502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Hurt_without_shadow_8
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 83
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ceb6487f069e360800000000000000
+      internalID: 7199392095523302402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Hurt_without_shadow_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 83
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02129a5820b2251c0800000000000000
+      internalID: -4516500186466803424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Hurt_without_shadow_10
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 83
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0388d43ef3d4050800000000000000
+      internalID: 5786351341731852489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Hurt_without_shadow_11
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 83
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c8fff6ad8bb0560800000000000000
+      internalID: 7281116470895938590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Hurt_without_shadow_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 19
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8302fafedc8e11c10800000000000000
+      internalID: 2022653678853234744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Hurt_without_shadow_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 19
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758f7027180aaece0800000000000000
+      internalID: -1375110258383914921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Hurt_without_shadow_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 19
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5898784b6e5f22210800000000000000
+      internalID: 1306877213110929797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Hurt_without_shadow_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 19
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba98d8a499a4a25e0800000000000000
+      internalID: -1933651067760965205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Vampires1_Hurt_without_shadow_0: 6025998920576932457
+      Vampires1_Hurt_without_shadow_1: 8028539181170493980
+      Vampires1_Hurt_without_shadow_10: 5786351341731852489
+      Vampires1_Hurt_without_shadow_11: 7281116470895938590
+      Vampires1_Hurt_without_shadow_12: 2022653678853234744
+      Vampires1_Hurt_without_shadow_13: -1375110258383914921
+      Vampires1_Hurt_without_shadow_14: 1306877213110929797
+      Vampires1_Hurt_without_shadow_15: -1933651067760965205
+      Vampires1_Hurt_without_shadow_2: 6029479991260670257
+      Vampires1_Hurt_without_shadow_3: -3201124566251665626
+      Vampires1_Hurt_without_shadow_4: 6002494840251412787
+      Vampires1_Hurt_without_shadow_5: 5924554818552032723
+      Vampires1_Hurt_without_shadow_6: 3080798796628966451
+      Vampires1_Hurt_without_shadow_7: -7956914503103740502
+      Vampires1_Hurt_without_shadow_8: 7199392095523302402
+      Vampires1_Hurt_without_shadow_9: -4516500186466803424
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         ‰PNG
+
+   IHDR         \r¨f   	pHYs     šœ  (IDATxœíÜ}lwšð¯ Á$$'Ä†Ä[Hª-%ÝQé”S+ÑmoY	V]VGÿêõE©¸ÐFÝJ¨‡t”—Mt[ŠhÕV¥ÕU¡Ñ¦:D|RZ^Â1½…8/vš¤i[yk
+s˜ß0~IHo™±=óýHÈ±glÏó{~Ï3ãñ€ˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆR†%Ù`6n§KžhY³¯ù ]é>áÌ\ n§K¶çd¡Ü™‹²eñÙ—­xæñ2´^ÿ—|Ã¦ƒ‰–=öT4CÏ7»W¸.Ù¨“ÀítÉëV)q—-[¨,»äPÆ€¡ÇÀ¬ùR­NÓëD<óx.ù¢–‰X·¢hÒJ’$É’$)qˆ‰ßEžð¶78{NVÔÄ¾Vº2Sþ'"æÁºEØº±öœ,lÝXu+Šâò®M  8üÑ.¨·Û‘3þà(.w £78 èŽ £árüÁQ8rf+¯!I’|ø£]úoü?ˆù—ªP³# 3€Çã±lÚ\‹ýuÛ¢Æ ã·wâÐñpÁ× ¸àëÃ¡ãà·w"+¯!I’¼¿n6m®…ÇãI»Ãb3ç? &€ƒêší¨­y@$Î7ÞÞ‰VoæçYqèøÃ8tüÌÏ³¢ÕÛ†7ÞÞ©ŒKmÍó¨®Ùž¶±›=ÿfn€
+I’ä¿ž<"».ÙítÉ=yD~kÏN¹Ë×,·|sZv;]rË7§å._³üÖžqë¦û¡Ÿ$Iò[{v*ñ´|sZnùæ´ü×“G”1èò5Ç-s;]ò[{v"~³æ_’$¹å›Ó²$I²Ûé’_’*¢æÛé’³b¹2"v±žúùZn§æ'[½m €7ÞÞ	‡Ý†ªµ¸zÕ§ìççYqõªUk+à°ÛðÆÛ;£ž—Î<¥¾¡™Îb À'ŸžDuÍv8ì6\½ê \½êƒÃnCuÍv|òéI @¦³õi¹ç‹eÖü§Ë ¦€ %†Voþéó³8,+c0?ÏªÄ~XÇ?}~V™øF‰ÝìùOõ¨ù€™@…0}ß\î¼…­£ÊdÿäÓ“ØÚ1ŠË·0}ßÃL|ÁÌùO‡¨Ëu f. µVo¦ïÛ‚¢c;ð‡ßÿG5á¿ÿ5ŠŽíÀô}[Òþ°w"fÎª7@]¯lõ¶¡lß8ì6üP
+ ¿ÿ5ü>Ã  $TžÀé¦s¸pñ  ¾¡+)Gaaá&,³æ_ä¾vß\~y/¶â>ùô$^®þÝÝD`Ý]ç€nÀìà°—È¹E«PßÐˆ§Ö=¦¦&4~qO<¹{ÿ´õÈ-Z‡½CönnÌž 5 nƒí°—ÈU0ÐqO­{[¶Ö&,€ó§ŽÂh bïô¶`Nv¦ýˆ[çö;†CA,.]nè10cþI’ä§Ö=îî¥HjÔåÍÌ^ {‰¼äÁU1îAéÊÆ|v§Ÿïî8 ï…ÿ‚5« s²spãÚ9ÃÅoæü©Û 5?	˜Qé– ?Ð èó_GnÑ*¼þÞÇx§ñ^ïcä­BŸÿ:Ôë‰çÅp(ˆî./€HŒïî8 ¿ˆ¹»Ë‹áP0™›©™Ÿ›#Q7ÀÛ3ì¨ohÄš5k°«î Ö¬Yƒú†FÜžaG§·Uà°—è6÷5m •n9¿½bï7ÕXòà*ä·÷¢	ˆ½¿Àp(ˆþ@ª³ý‡‚ÞýÈ’Wé:	´¤>úù9ù7RüUÐè@w—wÒØÝåE C×& YÈ¨tË…ëí îîýÂ+K&-€ðÊ’¨½`áz{Z7±í¯½ü4æÎÆô-+Ën\;‡Ðà n\;§<6}ËÃ˜;g¯½ütÔóÓ•Ø~‘ÿÞbÛ¤ùï-¶Eå?ÝãÍ¯ÓÛ‚×Îaú–‡HØ Cƒ˜¾åaÜ¸vÞÝš & £Ò-/¥%xÿà›
+÷Ä­“¨ „¡pÞ?ø&J°ü•â´ž,-‚Ãn ÜÚ{…‹JÑÝåÅî‡–âÙ|v?´Ý]^.*Å­½W  »,-JæfÿÃ2*ÝòêY™ÿPþWÏÊLÛÜK’$¿ðM¥ùMßò0ºODÎ}$j€ Ð}"YïN|ÿà›HÛß´ìi™ÌY¯,AÖ…›“@Ö…›¯,AAA–R4âuÒh‚gÆFP]³gÆ"¿þ±·ö¡©³­=CÊ ˆZ?Ý›p7ÿþÀMK~{ß¤ùÏoïƒ?pÓ¢Î:9sØm˜;gÿühÜ:“5À…~sç+c å¸ïg3*ÝòøÙfåu%I’=Eœ U k/FY¯^ý Ð[lÃøÙf‹xÞD¯›êDÒÔÛ¼:Ï)¿ðh) àÝ¯½8Óï³$zl²×Hê\©ó(i'Ë¿8®~^ºæ~õ¬Lˆ¹ ±°µgH‰]<Þ[)zQbÇ¡Uü÷ý vCEÇÏ6[œc·±û¡¥ €¦ÎNœé÷Yš:;D&…sì¶òüØïCÓimskÏÐ¤÷ïõüT§Þnu§’ÿDÏK§qÍjül³E=÷Åò{ª×÷x<ñZZèöªMµ ÒÙýš´é4ù§ÊÈùŸ(_ê (~Ñ EPï §úºÿ(]à›5¯^ýU³³¢ï…ða¯˜•”~¤ÆÏøS-~ÝÞQ|Z¸¨§FÃQËN†Q¸¨T÷‹ ôÄø*Æ¯ëoÔ÷Õ—;N¶Ì(?ãWß7[üDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD)Ë’ì0·Ó%O´¬Ù×Æ|®fèý†f. ·Ó%oÝXÏ¾lÅ3—ÅÝþéd3ŒÁDËŒ{*š¦ç›‰°çd!Ñíd“#Ý©‹¿Ü™µ¬Ü™‹Ï¾l5Í˜1ÿ‚Ûé’'ú—ŒíÑ­˜© $I’%IRâp;]òºEÊò²e£ÖWß_·¢(jb_+]™)ÿIÅ¨I` ‡?Ú…Øín½þÝ¤Ï‰].I’|ø£]÷ã4ÆüÇKÕ¨Ù€™ÀãñX6m®Åþºmqc ÄÇ™h\$I’÷×mÃ¦Íµðx<i÷ÙØÌùO§¨I`DÆ ºf;jkž ôG¦ô<±^mÍó¨®Ùž¶±›=ÿéÒ 5;0s¨µzÛ?~'ÙMŠ‰ž—.Ìœÿtj€šŸ4k ‘‰PßÐ¨Ü¿W¨—×74¦åäeÖü§KÔô:€;¯t@3€Çã±ÄžØéŽ ?'3ê~¢çi¿uÚbþS¿j~(‰±Á¨ 

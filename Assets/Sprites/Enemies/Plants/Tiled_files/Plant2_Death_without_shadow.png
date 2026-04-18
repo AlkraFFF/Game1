@@ -1,0 +1,262 @@
+/Bee/artifacts/rsp/3388064732626934676.rsp","enqueuedNodeIndex":805,"enqueueingNodeAnnotation":"ILPostProcess Library/Bee/artifacts/1900b0aE.dag/post-processed/Unity.VisualScripting.Core.Editor.dll (+pdb)","enqueueingNodeIndex":806}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.pdb","enqueuedNodeIndex":978,"enqueueingNodeAnnotation":"ScriptAssemblies","enqueueingNodeIndex":6}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll","enqueuedNodeIndex":979,"enqueueingNodeAnnotation":"ScriptAssemblies","enqueueingNodeIndex":6}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"ILPostProcess Library/Bee/artifacts/1900b0aE.dag/post-processed/Unity.VisualScripting.Flow.dll (+pdb)","enqueuedNodeIndex":808,"enqueueingNodeAnnotation":"CopyFiles Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll","enqueueingNodeIndex":979}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteResponseFile Library/Bee/artifacts/rsp/5249134988916615986.rsp","enqueuedNodeIndex":807,"enqueueingNodeAnnotation":"ILPostProcess Library/Bee/artifacts/1900b0aE.dag/post-processed/Unity.VisualScripting.Flow.dll (+pdb)","enqueueingNodeIndex":808}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles Library/ScriptAssemblies/Unity.VisualScripting.Flow.pdb","enqueuedNodeIndex":980,"enqueueingNodeAnnotation":"ScriptAssemblies","enqueueingNodeIndex":6}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll","enqueuedNodeIndex":981,"enqueueingNodeAnnotation":"ScriptAssemblies","enqueueingNodeIndex":6}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"ILPostProcess Library/Bee/artifacts/1900b0aE.dag/post-processed/Unity.2D.Animation.Runtime.dll (+pdb)","enqueuedNodeIndex":810,"enqueueingNodeAnnotation":"CopyFiles Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll","enqueueingNodeIndex":981}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteResponseFile Library/Bee/artifacts/rsp/11932646040550446581.rsp","enqueuedNodeIndex":809,"enqueueingNodeAnnotation":"ILPostProcess Library/Bee/artifacts/1900b0aE.dag/post-processed/Unity.2D.Animation.Runtime.dll (+pdb)","enqueueingNodeIndex":810}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles Library/ScriptAssemblies/Unity.2D.Animation.Runtime.pdb","enqueuedNodeIndex":982,"enqueueingNodeAnnotation":"ScriptAssemblies","enqueueingNodeIndex":6}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles Library/ScriptAssemblies/Unity.2D.Aseprite.Editor.dll","enqueuedNodeIndex":983,"enqueueingNodeAnnotation":"ScriptAssemblies","enqueueingNodeIndex":6}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"ILPostProcess Library/Bee/artifacts/1900b0aE.dag/post-processed/Unity.2D.Aseprite.Editor.dll (+pdb)","enqueuedNodeIndex":812,"enqueueingNodeAnnotation":"CopyFiles Library/ScriptAssemblies/Unity.2D.Aseprite.Editor.dll","enqueueingNodeIndex":983}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteResponseFile Library/Bee/artifacts/rsp/6210570011482043853.rsp","enqueuedNodeIndex":811,"enqueueingNodeAnnotation":"ILPostProcess Library/Bee/artifacts/1900b0aE.dag/post-processed/Unity.2D.Aseprite.Editor.dll (+pdb)","enqueueingNodeIndex":812}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles Library/ScriptAssemblies/Unity.2D.Aseprite.Editor.pdb","enqueuedNodeIndex":984,"enqueueingNodeAnnotation":"ScriptAssemblies","enqueueingNodeIndex":6}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles Library/ScriptAssemblies/Unity.2D.Common.Editor.dll","enqueuedNodeIndex":985,"enqueueingNodeAnnotation":"ScriptAssemblies","enqueueingNodeIndex":6}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"ILPostProcess Library/Bee/artifacts/1900b0aE.dag/post-processed/Unity.2D.Common.Editor.dll (+pdb)","enqueuedNodeIndex":814,"enqueueingNodeAnnotation":"CopyFiles Library/ScriptAssemblies/Unity.2D.Common.Editor.dll","enqueueingNodeIndex":985}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteResponseFile Library/Bee/artifacts/rsp/8336928665352126947.rsp","enqueuedNodeIndex":813,"enqueueingNodeAnnotation":"ILPostProcess Library/Bee/artifacts/1900b0aE.dag/post-processed/Unity.2D.Common.Editor.dll (+pdb)","enqueueingNodeIndex":814}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles Library/ScriptAssemblies/Unity.2D.Common.Editor.pdb","enqueuedNodeIndex":986,"enqueueingNodeAnnotation":"ScriptAssemblies","enqueueingNodeIndex":6}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll","enqueuedNodeIndex":987,"enqueueingNodeAnnotation":"ScriptAssemblies","enqueueingNodeIndex":6}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"ILPostProcess Library/Bee/artifacts/1900b0aE.dag/post-processed/Unity.2D.SpriteShape.Runtime.dll (+pdb)","enqueuedNodeIndex":816,"enqueueingNodeAnnotation":"CopyFiles Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll","enqueueingNodeIndex":987}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteResponseFile Library/Bee/artifacts/rsp/1410676725171572189.rsp","enqueuedNodeIndex":815,"enqueueingNodeAnnotation":"ILPostProcess Library/Bee/artifacts/1900b0aE.dag/post-processed/Unity.2D.SpriteShape.Runtime.dll (+pdb)","enqueueingNodeIndex":816}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.pdb","enqueuedNodeIndex":988,"enqueueingNodeAnnotation":"ScriptAssemblies","enqueueingNodeIndex":6}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles Library/ScriptAssemblies/Unity.Collections.BurstCompatibilityGen.dll","enqueuedNodeIndex":989,"enqueueingNodeAnnotation":"ScriptAssemblies","enqueueingNodeIndex":6}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"ILPostProcess Library/Bee/artifacts/1900b0aE.dag/post-processed/Unity.Collections.BurstCompatibilityGen.dll (+pdb)","enqueuedNodeIndex":818,"enqueueingNodeAnnotation":"CopyFiles Library/ScriptAssemblies/Unity.Collections.BurstCompatibilityGen.dll","enqueueingNodeIndex":989}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"Csc Library/Bee/artifacts/1900b0aE.dag/Unity.Collections.BurstCompatibilityGen.dll (+2 others)","enqueuedNodeIndex":452,"enqueueingNodeAnnotation":"ILPostProcess Library/Bee/artifacts/1900b0aE.dag/post-processed/Unity.Collections.BurstCompatibilityGen.dll (+pdb)","enqueueingNodeIndex":818}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Collections.BurstCompatibilityGen.UnityAdditionalFile.txt","enqueuedNodeIndex":449,"enqueueingNodeAnnotation":"Csc Library/Bee/artifacts/1900b0aE.dag/Unity.Collections.BurstCompatibilityGen.dll (+2 others)","enqueueingNodeIndex":452}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Collections.BurstCompatibilityGen.rsp","enqueuedNodeIndex":450,"enqueueingNodeAnnotation":"Csc Library/Bee/artifacts/1900b0aE.dag/Unity.Collections.BurstCompatibilityGen.dll (+2 others)","enqueueingNodeIndex":452}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Collections.BurstCompatibilityGen.rsp2","enqueuedNodeIndex":451,"enqueueingNodeAnnotation":"Csc Library/Bee/artifacts/1900b0aE.dag/Unity.Collections.BurstCompatibilityGen.dll (+2 others)","enqueueingNodeIndex":452}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"MovedFromExtractor-Combine Library/Bee/artifacts/1900b0aE.dag/Unity.Collections.BurstCompatibilityGen.dll.mvfrm","enqueuedNodeIndex":454,"enqueueingNodeAnnotation":"Csc Library/Bee/artifacts/1900b0aE.dag/Unity.Collections.BurstCompatibilityGen.dll (+2 others)","enqueueingNodeIndex":452}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Collections.BurstCompatibilityGen.dll.mvfrm.rsp","enqueuedNodeIndex":453,"enqueueingNodeAnnotation":"MovedFromExtractor-Combine Library/Bee/artifacts/1900b0aE.dag/Unity.Collections.BurstCompatibilityGen.dll.mvfrm","enqueueingNodeIndex":454}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteResponseFile Library/Bee/artifacts/rsp/17766336155681823506.rsp","enqueuedNodeIndex":817,"enqueueingNodeAnnotation":"ILPostProcess Library/Bee/artifacts/1900b0aE.dag/post-processed/Unity.Collections.BurstCompatibilityGen.dll (+pdb)","enqueueingNodeIndex":818}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles Library/ScriptAssemblies/Unity.Collections.BurstCompatibilityGen.pdb","enqueuedNodeIndex":990,"enqueueingNodeAnnotation":"ScriptAssemblies","enqueueingNodeIndex":6}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles Library/ScriptAssemblies/Unity.Collections.DocCodeSamples.dll","enqueuedNodeIndex":991,"enqueueingNodeAnnotation":"ScriptAssemblies","enqueueingNodeIndex":6}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"ILPostProcess Library/Bee/artifacts/1900b0aE.dag/post-processed/Unity.Collections.DocCodeSamples.dll (+pdb)","enqueuedNodeIndex":820,"enqueueingNodeAnnotation":"CopyFiles Library/ScriptAssemblies/Unity.Collections.DocCodeSamples.dll","enqueueingNodeIndex":991}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"Csc Library/Bee/artifacts/1900b0aE.dag/Unity.Collections.DocCodeSamples.dll (+2 others)","enqueuedNodeIndex":458,"enqueueingNodeAnnotation":"ILPostProcess Library/Bee/artifacts/1900b0aE.dag/post-processed/Unity.Collections.DocCodeSamples.dll (+pdb)","enqueueingNodeIndex":820}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Collections.DocCodeSamples.UnityAdditionalFile.txt","enqueuedNodeIndex":455,"enqueueingNodeAnnotation":"Csc Library/Bee/artifacts/1900b0aE.dag/Unity.Collections.DocCodeSamples.dll (+2 others)","enqueueingNodeIndex":458}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Collections.DocCodeSamples.rsp","enqueuedNodeIndex":456,"enqueueingNodeAnnotation":"Csc Library/Bee/artifacts/1900b0aE.dag/Unity.Collections.DocCodeSamples.dll (+2 others)","enqueueingNodeIndex":458}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Collections.DocCodeSamples.rsp2","enqueuedNodeIndex":457,"enqueueingNodeAnnotation":"Csc Library/Bee/artifacts/1900b0aE.dag/Unity.Collections.DocCodeSamples.dll (+2 others)","enqueueingNodeIndex":458}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"MovedFromExtractor-Combine Library/Bee/artifacts/1900b0aE.dag/Unity.Collections.DocCodeSamples.dll.mvfrm","enqueuedNodeIndex":460,"enqueueingNodeAnnotation":"Csc Library/Bee/artifacts/1900b0aE.dag/Unity.Collections.DocCodeSamples.dll (+2 others)","enqueueingNodeIndex":458}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Collections.DocCodeSamples.dll.mvfrm.rsp","enqueuedNodeIndex":459,"enqueueingNodeAnnotation":"MovedFromExtractor-Combine Library/Bee/artifacts/1900b0aE.dag/Unity.Collections.DocCodeSamples.dll.mvfrm","enqueueingNodeIndex":460}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteResponseFile Library/Bee/artifacts/rsp/3818794330681902346.rsp","enqueuedNodeIndex":819,"enqueueingNodeAnnotation":"ILPostProcess Library/Bee/artifacts/1900b0aE.dag/post-processed/Unity.Collections.DocCodeSamples.dll (+pdb)","enqueueingNodeIndex":820}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles Library/ScriptAssemblies/Unity.Collections.DocCodeSamples.pdb","enqueuedNodeIndex":992,"enqueueingNodeAnnotation":"ScriptAssemblies","enqueueingNodeIndex":6}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles Library/ScriptAssemblies/Unity.Multiplayer.Tools.NetStats.dll","enqueuedNodeIndex":993,"enqueueingNodeAnnotation":"ScriptAssemblies","enqueueingNodeIndex":6}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"ILPostProcess Library/Bee/artifacts/1900b0aE.dag/post-processed/Unity.Multiplayer.Tools.NetStats.dll (+pdb)","enqueuedNodeIndex":822,"enqueueingNodeAnnotation":"CopyFiles Library/ScriptAssemblies/Unity.Multiplayer.Tools.NetStats.dll","enqueueingNodeIndex":993}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteResponseFile Library/Bee/artifacts/rsp/11404659220312823550.rsp","enqueuedNodeIndex":821,"enqueueingNodeAnnotation":"ILPostProcess Library/Bee/artifacts/1900b0aE.dag/post-processed/Unity.Multiplayer.Tools.NetStats.dll (+pdb)","enqueueingNodeIndex":822}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles Library/ScriptAssemblies/Unity.Multiplayer.Tools.NetStats.pdb","enqueuedNodeIndex":994,"enqueueingNodeAnnotation":"ScriptAssemblies","enqueueingNodeIndex":6}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles Library/Script                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                fileFormatVersion: 2
+guid: 6d84f17fc9529b541b614b4f5b941b6c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6649021922826934418
+    second: Vampires1_Idle_body_0
+  - first:
+      213: -1369307613089522850
+    second: Vampires1_Idle_body_1
+  - first:
+      213: -7564238973315620713
+    second: Vampires1_Idle_body_2
+  - first:
+      213: 7252432604866114820
+    second: Vampires1_Idle_body_3
+  - first:
+      213: 3087680257583442899
+    second: Vampires1_Idle_body_4
+  - first:
+      213: -4480017485703197461
+    second: Vampires1_Idle_body_5
+  - first:
+      213: -672611590927659197
+    second: Vampires1_Idle_body_6
+  - first:
+      213: -5100725572335080508
+    second: Vampires1_Idle_body_7
+  - first:
+      213: 1942300249352057052
+    second: Vampires1_Idle_body_8
+  - first:
+      213: -6006712147851538486
+    second: Vampires1_Idle_body_9
+  - first:
+      213: 107797940526645340
+    second: Vampires1_Idle_body_10
+  - first:
+      213: 540849717512005609
+    second: Vampires1_Idle_body_11
+  - first:
+      213: -2710989524445953447
+    second: Vampires1_Idle_body_12
+  - first:
+      213: -3525071626836172014
+    second: Vampires1_Idle_body_13
+  - first:
+      213: -8250636455188146696
+    second: Vampires1_Idle_body_14
+  - first:
+      213: -320188954769482946
+    second: Vampires1_Idle_body_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Vampires1_Idle_body_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 211
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67ad1a0acde9b3a0800000000000000
+      internalID: -6649021922826934418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Idle_body_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 211
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b9f851bfd3ffce0800000000000000
+      internalID: -1369307613089522850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Idle_body_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 211
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7906b571bbc660790800000000000000
+      internalID: -7564238973315620713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Idle_body_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 211
+        width:
