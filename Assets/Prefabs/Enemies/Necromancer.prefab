@@ -127,6 +127,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   GlobalObjectIdHash: 2936797881
+  InScenePlacedSourceGlobalObjectIdHash: 0
   AlwaysReplicateAsRoot: 0
   SynchronizeTransform: 1
   ActiveSceneSynchronization: 0
@@ -146,6 +147,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e96cb6065543e43c4a752faaa1468eb1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  UseUnreliableDeltas: 0
   SyncPositionX: 1
   SyncPositionY: 1
   SyncPositionZ: 0
@@ -177,7 +179,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   stats: {fileID: 11400000, guid: c35c00fe97698f44aa3acac149ff5fa7, type: 2}
-  enemyDrop: {fileID: 0}
+  enemyDrop: {fileID: -1180408767052926546}
 --- !u!114 &1051902188806390763
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -205,7 +207,7 @@ MonoBehaviour:
   _summonTimer: 15
   _summonRadius: 1.5
   _summonCount: 3
-  _summonedPrefab: {fileID: 8397630189058392082, guid: b81405a0fe77f00468c26177adcd676c, type: 3}
+  _summonedPrefab: {fileID: 8467090232001237278, guid: e3ec1c0ba36218a42b8712abf4f663b5, type: 3}
   _summonAnimTimer: 0.3
 --- !u!114 &998971728353238058
 MonoBehaviour:
